@@ -1,0 +1,13 @@
+#ifndef _STREAMINGNOLOGY_MEDIASERVER_SNYVERSION_H_
+#define _STREAMINGNOLOGY_MEDIASERVER_SNYVERSION_H_
+#include "SnyType.h"
+#include "SnyRevision.h"
+const std::string AppName                         = "SnyMediaServer";
+const std::string MEDIASERVER_VERSION             = "1.0.1";
+const SNY_SI32 MEDIASERVER_VERSION_MAJOR     = 1;
+const SNY_SI32 MEDIASERVER_VERSION_MINOR     = 0;
+const SNY_SI32 MEDIASERVER_VERSION_MICRO     = 1;
+
+const std::string MEDIASERVER_FULL_VERSION        = AppName+"-"+MEDIASERVER_VERSION+"-"+MEDIASERVER_BUILD_TIME+"-"+MEDIASERVER_GIT_REVISION;
+
+#endif //_STREAMINGNOLOGY_MEDIASERVER_SNYVERSION_H_

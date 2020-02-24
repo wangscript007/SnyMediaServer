@@ -1,0 +1,1105 @@
+01/08 void test_rapidjson() DTS is 3523895669 ,PTS is 3523895669 ,Size is 206 ,Sync true
+01/08 void test_rapidjson() DTS is 3523918889 ,PTS is 3523918889 ,Size is 190 ,Sync true
+01/08 void test_rapidjson() DTS is 3523942109 ,PTS is 3523942109 ,Size is 177 ,Sync true
+01/08 void test_rapidjson() DTS is 3523965329 ,PTS is 3523965329 ,Size is 196 ,Sync true
+01/08 void test_rapidjson() DTS is 3523988549 ,PTS is 3523988549 ,Size is 202 ,Sync true
+01/08 void test_rapidjson() DTS is 3524011769 ,PTS is 3524011769 ,Size is 199 ,Sync true
+01/08 void test_rapidjson() DTS is 3524034989 ,PTS is 3524034989 ,Size is 201 ,Sync true
+01/08 void test_rapidjson() DTS is 3524058209 ,PTS is 3524058209 ,Size is 199 ,Sync true
+01/08 void test_rapidjson() DTS is 3524081429 ,PTS is 3524081429 ,Size is 190 ,Sync true
+01/08 void test_rapidjson() DTS is 3524104649 ,PTS is 3524104649 ,Size is 188 ,Sync true
+01/08 void test_rapidjson() DTS is 3524127868 ,PTS is 3524127868 ,Size is 171 ,Sync true
+01/08 void test_rapidjson() DTS is 3524151088 ,PTS is 3524151088 ,Size is 190 ,Sync true
+01/08 void test_rapidjson() DTS is 3524174308 ,PTS is 3524174308 ,Size is 194 ,Sync true
+01/08 void test_rapidjson() DTS is 3524197528 ,PTS is 3524197528 ,Size is 195 ,Sync true
+01/08 void test_rapidjson() DTS is 3524220748 ,PTS is 3524220748 ,Size is 190 ,Sync true
+01/08 void test_rapidjson() DTS is 3524243968 ,PTS is 3524243968 ,Size is 188 ,Sync true
+01/08 void test_rapidjson() DTS is 3524267188 ,PTS is 3524267188 ,Size is 185 ,Sync true
+01/08 void test_rapidjson() DTS is 3524290408 ,PTS is 3524290408 ,Size is 202 ,Sync true
+01/08 void test_rapidjson() DTS is 3524313628 ,PTS is 3524313628 ,Size is 200 ,Sync true
+01/08 void test_rapidjson() DTS is 3524336848 ,PTS is 3524336848 ,Size is 213 ,Sync true
+01/08 void test_rapidjson() DTS is 3524360068 ,PTS is 3524360068 ,Size is 191 ,Sync true
+01/08 void test_rapidjson() DTS is 3524383288 ,PTS is 3524383288 ,Size is 199 ,Sync true
+01/08 void test_rapidjson() DTS is 3524406508 ,PTS is 3524406508 ,Size is 211 ,Sync true
+01/08 void test_rapidjson() DTS is 3524429728 ,PTS is 3524429728 ,Size is 185 ,Sync true
+01/08 void test_rapidjson() DTS is 3524452948 ,PTS is 3524452948 ,Size is 194 ,Sync true
+01/08 void test_rapidjson() DTS is 3524476168 ,PTS is 3524476168 ,Size is 177 ,Sync true
+01/08 void test_rapidjson() DTS is 3524499388 ,PTS is 3524499388 ,Size is 208 ,Sync true
+01/08 void test_rapidjson() DTS is 3524522608 ,PTS is 3524522608 ,Size is 207 ,Sync true
+01/08 void test_rapidjson() DTS is 3524545828 ,PTS is 3524545828 ,Size is 211 ,Sync true
+01/08 void test_rapidjson() DTS is 3524569048 ,PTS is 3524569048 ,Size is 190 ,Sync true
+01/08 void test_rapidjson() DTS is 3524592268 ,PTS is 3524592268 ,Size is 176 ,Sync true
+01/08 void test_rapidjson() DTS is 3524615488 ,PTS is 3524615488 ,Size is 201 ,Sync true
+01/08 void test_rapidjson() DTS is 3524638707 ,PTS is 3524638707 ,Size is 208 ,Sync true
+01/08 void test_rapidjson() DTS is 3524661927 ,PTS is 3524661927 ,Size is 184 ,Sync true
+01/08 void test_rapidjson() DTS is 3524685147 ,PTS is 3524685147 ,Size is 192 ,Sync true
+01/08 void test_rapidjson() DTS is 3524708367 ,PTS is 3524708367 ,Size is 178 ,Sync true
+01/08 void test_rapidjson() DTS is 3524731587 ,PTS is 3524731587 ,Size is 194 ,Sync true
+01/08 void test_rapidjson() DTS is 3524754807 ,PTS is 3524754807 ,Size is 198 ,Sync true
+01/08 void test_rapidjson() DTS is 3524778027 ,PTS is 3524778027 ,Size is 177 ,Sync true
+01/08 void test_rapidjson() DTS is 3524801247 ,PTS is 3524801247 ,Size is 188 ,Sync true
+01/08 void test_rapidjson() DTS is 3524824467 ,PTS is 3524824467 ,Size is 212 ,Sync true
+01/08 void test_rapidjson() DTS is 3524847687 ,PTS is 3524847687 ,Size is 191 ,Sync true
+01/08 void test_rapidjson() DTS is 3524870907 ,PTS is 3524870907 ,Size is 198 ,Sync true
+01/08 void test_rapidjson() DTS is 3524894127 ,PTS is 3524894127 ,Size is 167 ,Sync true
+01/08 void test_rapidjson() DTS is 3524917347 ,PTS is 3524917347 ,Size is 186 ,Sync true
+01/08 void test_rapidjson() DTS is 3524940567 ,PTS is 3524940567 ,Size is 192 ,Sync true
+01/08 void test_rapidjson() DTS is 3524963787 ,PTS is 3524963787 ,Size is 194 ,Sync true
+01/08 void test_rapidjson() DTS is 3524987007 ,PTS is 3524987007 ,Size is 200 ,Sync true
+01/08 void test_rapidjson() DTS is 3525010227 ,PTS is 3525010227 ,Size is 213 ,Sync true
+01/08 void test_rapidjson() DTS is 3525033447 ,PTS is 3525033447 ,Size is 194 ,Sync true
+01/08 void test_rapidjson() DTS is 3525056667 ,PTS is 3525056667 ,Size is 183 ,Sync true
+01/08 void test_rapidjson() DTS is 3525079887 ,PTS is 3525079887 ,Size is 207 ,Sync true
+01/08 void test_rapidjson() DTS is 3525103107 ,PTS is 3525103107 ,Size is 184 ,Sync true
+01/08 void test_rapidjson() DTS is 3525126327 ,PTS is 3525126327 ,Size is 181 ,Sync true
+01/08 void test_rapidjson() DTS is 3525149546 ,PTS is 3525149546 ,Size is 199 ,Sync true
+01/08 void test_rapidjson() DTS is 3525172766 ,PTS is 3525172766 ,Size is 176 ,Sync true
+01/08 void test_rapidjson() DTS is 3525195986 ,PTS is 3525195986 ,Size is 179 ,Sync true
+01/08 void test_rapidjson() DTS is 3525219206 ,PTS is 3525219206 ,Size is 188 ,Sync true
+01/08 void test_rapidjson() DTS is 3525242426 ,PTS is 3525242426 ,Size is 217 ,Sync true
+01/08 void test_rapidjson() DTS is 3525265646 ,PTS is 3525265646 ,Size is 192 ,Sync true
+01/08 void test_rapidjson() DTS is 3525288866 ,PTS is 3525288866 ,Size is 200 ,Sync true
+01/08 void test_rapidjson() DTS is 3525312086 ,PTS is 3525312086 ,Size is 190 ,Sync true
+01/08 void test_rapidjson() DTS is 3525335306 ,PTS is 3525335306 ,Size is 189 ,Sync true
+01/08 void test_rapidjson() DTS is 3525358526 ,PTS is 3525358526 ,Size is 172 ,Sync true
+01/08 void test_rapidjson() DTS is 3525381746 ,PTS is 3525381746 ,Size is 207 ,Sync true
+01/08 void test_rapidjson() DTS is 3525404966 ,PTS is 3525404966 ,Size is 205 ,Sync true
+01/08 void test_rapidjson() DTS is 3525428186 ,PTS is 3525428186 ,Size is 190 ,Sync true
+01/08 void test_rapidjson() DTS is 3525451406 ,PTS is 3525451406 ,Size is 208 ,Sync true
+01/08 void test_rapidjson() DTS is 3525474626 ,PTS is 3525474626 ,Size is 200 ,Sync true
+01/08 void test_rapidjson() DTS is 3525497846 ,PTS is 3525497846 ,Size is 191 ,Sync true
+01/08 void test_rapidjson() DTS is 3525521066 ,PTS is 3525521066 ,Size is 186 ,Sync true
+01/08 void test_rapidjson() DTS is 3525544286 ,PTS is 3525544286 ,Size is 183 ,Sync true
+01/08 void test_rapidjson() DTS is 3525567506 ,PTS is 3525567506 ,Size is 178 ,Sync true
+01/08 void test_rapidjson() DTS is 3525590726 ,PTS is 3525590726 ,Size is 199 ,Sync true
+01/08 void test_rapidjson() DTS is 3525613946 ,PTS is 3525613946 ,Size is 182 ,Sync true
+01/08 void test_rapidjson() DTS is 3525637166 ,PTS is 3525637166 ,Size is 179 ,Sync true
+01/08 void test_rapidjson() DTS is 3525660385 ,PTS is 3525660385 ,Size is 198 ,Sync true
+01/08 void test_rapidjson() DTS is 3525683605 ,PTS is 3525683605 ,Size is 198 ,Sync true
+01/08 void test_rapidjson() DTS is 3525706825 ,PTS is 3525706825 ,Size is 184 ,Sync true
+01/08 void test_rapidjson() DTS is 3525730045 ,PTS is 3525730045 ,Size is 193 ,Sync true
+01/08 void test_rapidjson() DTS is 3525753265 ,PTS is 3525753265 ,Size is 205 ,Sync true
+01/08 void test_rapidjson() DTS is 3525776485 ,PTS is 3525776485 ,Size is 193 ,Sync true
+01/08 void test_rapidjson() DTS is 3525799705 ,PTS is 3525799705 ,Size is 188 ,Sync true
+01/08 void test_rapidjson() DTS is 3525822925 ,PTS is 3525822925 ,Size is 193 ,Sync true
+01/08 void test_rapidjson() DTS is 3525846145 ,PTS is 3525846145 ,Size is 192 ,Sync true
+01/08 void test_rapidjson() DTS is 3525869365 ,PTS is 3525869365 ,Size is 193 ,Sync true
+01/08 void test_rapidjson() DTS is 3525892585 ,PTS is 3525892585 ,Size is 204 ,Sync true
+01/08 void test_rapidjson() DTS is 3525915805 ,PTS is 3525915805 ,Size is 193 ,Sync true
+01/08 void test_rapidjson() DTS is 3525939025 ,PTS is 3525939025 ,Size is 174 ,Sync true
+01/08 void test_rapidjson() DTS is 3525962245 ,PTS is 3525962245 ,Size is 192 ,Sync true
+01/08 void test_rapidjson() DTS is 3525985465 ,PTS is 3525985465 ,Size is 192 ,Sync true
+01/08 void test_rapidjson() DTS is 3526008685 ,PTS is 3526008685 ,Size is 190 ,Sync true
+01/08 void test_rapidjson() DTS is 3526031905 ,PTS is 3526031905 ,Size is 195 ,Sync true
+01/08 void test_rapidjson() DTS is 3526055125 ,PTS is 3526055125 ,Size is 182 ,Sync true
+01/08 void test_rapidjson() DTS is 3526078345 ,PTS is 3526078345 ,Size is 183 ,Sync true
+01/08 void test_rapidjson() DTS is 3526101565 ,PTS is 3526101565 ,Size is 212 ,Sync true
+01/08 void test_rapidjson() DTS is 3526124785 ,PTS is 3526124785 ,Size is 220 ,Sync true
+01/08 void test_rapidjson() DTS is 3526148005 ,PTS is 3526148005 ,Size is 196 ,Sync true
+01/08 void test_rapidjson() DTS is 3526171224 ,PTS is 3526171224 ,Size is 179 ,Sync true
+01/08 void test_rapidjson() DTS is 3526194444 ,PTS is 3526194444 ,Size is 188 ,Sync true
+01/08 void test_rapidjson() DTS is 3526217664 ,PTS is 3526217664 ,Size is 198 ,Sync true
+01/08 void test_rapidjson() DTS is 3526240884 ,PTS is 3526240884 ,Size is 198 ,Sync true
+01/08 void test_rapidjson() DTS is 3526264104 ,PTS is 3526264104 ,Size is 206 ,Sync true
+01/08 void test_rapidjson() DTS is 3526287324 ,PTS is 3526287324 ,Size is 195 ,Sync true
+01/08 void test_rapidjson() DTS is 3526310544 ,PTS is 3526310544 ,Size is 202 ,Sync true
+01/08 void test_rapidjson() DTS is 3526333764 ,PTS is 3526333764 ,Size is 185 ,Sync true
+01/08 void test_rapidjson() DTS is 3526356984 ,PTS is 3526356984 ,Size is 190 ,Sync true
+01/08 void test_rapidjson() DTS is 3526380204 ,PTS is 3526380204 ,Size is 200 ,Sync true
+01/08 void test_rapidjson() DTS is 3526403424 ,PTS is 3526403424 ,Size is 189 ,Sync true
+01/08 void test_rapidjson() DTS is 3526426644 ,PTS is 3526426644 ,Size is 178 ,Sync true
+01/08 void test_rapidjson() DTS is 3526449864 ,PTS is 3526449864 ,Size is 199 ,Sync true
+01/08 void test_rapidjson() DTS is 3526473084 ,PTS is 3526473084 ,Size is 206 ,Sync true
+01/08 void test_rapidjson() DTS is 3526496304 ,PTS is 3526496304 ,Size is 202 ,Sync true
+01/08 void test_rapidjson() DTS is 3526519524 ,PTS is 3526519524 ,Size is 198 ,Sync true
+01/08 void test_rapidjson() DTS is 3526542744 ,PTS is 3526542744 ,Size is 161 ,Sync true
+01/08 void test_rapidjson() DTS is 3526565964 ,PTS is 3526565964 ,Size is 189 ,Sync true
+01/08 void test_rapidjson() DTS is 3526589184 ,PTS is 3526589184 ,Size is 195 ,Sync true
+01/08 void test_rapidjson() DTS is 3526612404 ,PTS is 3526612404 ,Size is 174 ,Sync true
+01/08 void test_rapidjson() DTS is 3526635624 ,PTS is 3526635624 ,Size is 192 ,Sync true
+01/08 void test_rapidjson() DTS is 3526658844 ,PTS is 3526658844 ,Size is 199 ,Sync true
+01/08 void test_rapidjson() DTS is 3526682063 ,PTS is 3526682063 ,Size is 196 ,Sync true
+01/08 void test_rapidjson() DTS is 3526705283 ,PTS is 3526705283 ,Size is 187 ,Sync true
+01/08 void test_rapidjson() DTS is 3526728503 ,PTS is 3526728503 ,Size is 196 ,Sync true
+01/08 void test_rapidjson() DTS is 3526751723 ,PTS is 3526751723 ,Size is 183 ,Sync true
+01/08 void test_rapidjson() DTS is 3526774943 ,PTS is 3526774943 ,Size is 196 ,Sync true
+01/08 void test_rapidjson() DTS is 3526798163 ,PTS is 3526798163 ,Size is 187 ,Sync true
+01/08 void test_rapidjson() DTS is 3526821383 ,PTS is 3526821383 ,Size is 199 ,Sync true
+01/08 void test_rapidjson() DTS is 3526844603 ,PTS is 3526844603 ,Size is 207 ,Sync true
+01/08 void test_rapidjson() DTS is 3526867823 ,PTS is 3526867823 ,Size is 192 ,Sync true
+01/08 void test_rapidjson() DTS is 3526891043 ,PTS is 3526891043 ,Size is 195 ,Sync true
+01/08 void test_rapidjson() DTS is 3526914263 ,PTS is 3526914263 ,Size is 205 ,Sync true
+01/08 void test_rapidjson() DTS is 3526937483 ,PTS is 3526937483 ,Size is 184 ,Sync true
+01/08 void test_rapidjson() DTS is 3526960703 ,PTS is 3526960703 ,Size is 191 ,Sync true
+01/08 void test_rapidjson() DTS is 3526983923 ,PTS is 3526983923 ,Size is 205 ,Sync true
+01/08 void test_rapidjson() DTS is 3527007143 ,PTS is 3527007143 ,Size is 199 ,Sync true
+01/08 void test_rapidjson() DTS is 3527030363 ,PTS is 3527030363 ,Size is 195 ,Sync true
+01/08 void test_rapidjson() DTS is 3527053583 ,PTS is 3527053583 ,Size is 208 ,Sync true
+01/08 void test_rapidjson() DTS is 3527076803 ,PTS is 3527076803 ,Size is 200 ,Sync true
+01/08 void test_rapidjson() DTS is 3527100023 ,PTS is 3527100023 ,Size is 206 ,Sync true
+01/08 void test_rapidjson() DTS is 3527123243 ,PTS is 3527123243 ,Size is 205 ,Sync true
+01/08 void test_rapidjson() DTS is 3527146463 ,PTS is 3527146463 ,Size is 178 ,Sync true
+01/08 void test_rapidjson() DTS is 3527169683 ,PTS is 3527169683 ,Size is 190 ,Sync true
+01/08 void test_rapidjson() DTS is 3527192902 ,PTS is 3527192902 ,Size is 208 ,Sync true
+01/08 void test_rapidjson() DTS is 3527216122 ,PTS is 3527216122 ,Size is 205 ,Sync true
+01/08 void test_rapidjson() DTS is 3527239342 ,PTS is 3527239342 ,Size is 209 ,Sync true
+01/08 void test_rapidjson() DTS is 3527262562 ,PTS is 3527262562 ,Size is 188 ,Sync true
+01/08 void test_rapidjson() DTS is 3527285782 ,PTS is 3527285782 ,Size is 191 ,Sync true
+01/08 void test_rapidjson() DTS is 3527309002 ,PTS is 3527309002 ,Size is 194 ,Sync true
+01/08 void test_rapidjson() DTS is 3527332222 ,PTS is 3527332222 ,Size is 201 ,Sync true
+01/08 void test_rapidjson() DTS is 3527355442 ,PTS is 3527355442 ,Size is 215 ,Sync true
+01/08 void test_rapidjson() DTS is 3527378662 ,PTS is 3527378662 ,Size is 191 ,Sync true
+01/08 void test_rapidjson() DTS is 3527401882 ,PTS is 3527401882 ,Size is 193 ,Sync true
+01/08 void test_rapidjson() DTS is 3527425102 ,PTS is 3527425102 ,Size is 195 ,Sync true
+01/08 void test_rapidjson() DTS is 3527448322 ,PTS is 3527448322 ,Size is 195 ,Sync true
+01/08 void test_rapidjson() DTS is 3527471542 ,PTS is 3527471542 ,Size is 199 ,Sync true
+01/08 void test_rapidjson() DTS is 3527494762 ,PTS is 3527494762 ,Size is 186 ,Sync true
+01/08 void test_rapidjson() DTS is 3527517982 ,PTS is 3527517982 ,Size is 201 ,Sync true
+01/08 void test_rapidjson() DTS is 3527541202 ,PTS is 3527541202 ,Size is 190 ,Sync true
+01/08 void test_rapidjson() DTS is 3527564422 ,PTS is 3527564422 ,Size is 193 ,Sync true
+01/08 void test_rapidjson() DTS is 3527587642 ,PTS is 3527587642 ,Size is 175 ,Sync true
+01/08 void test_rapidjson() DTS is 3527610862 ,PTS is 3527610862 ,Size is 191 ,Sync true
+01/08 void test_rapidjson() DTS is 3527634082 ,PTS is 3527634082 ,Size is 180 ,Sync true
+01/08 void test_rapidjson() DTS is 3527657302 ,PTS is 3527657302 ,Size is 192 ,Sync true
+01/08 void test_rapidjson() DTS is 3527680522 ,PTS is 3527680522 ,Size is 185 ,Sync true
+01/08 void test_rapidjson() DTS is 3527703741 ,PTS is 3527703741 ,Size is 188 ,Sync true
+01/08 void test_rapidjson() DTS is 3527726961 ,PTS is 3527726961 ,Size is 199 ,Sync true
+01/08 void test_rapidjson() DTS is 3527750181 ,PTS is 3527750181 ,Size is 187 ,Sync true
+01/08 void test_rapidjson() DTS is 3527773401 ,PTS is 3527773401 ,Size is 181 ,Sync true
+01/08 void test_rapidjson() DTS is 3527796621 ,PTS is 3527796621 ,Size is 198 ,Sync true
+01/08 void test_rapidjson() DTS is 3527819841 ,PTS is 3527819841 ,Size is 178 ,Sync true
+01/08 void test_rapidjson() DTS is 3527843061 ,PTS is 3527843061 ,Size is 192 ,Sync true
+01/08 void test_rapidjson() DTS is 3527866281 ,PTS is 3527866281 ,Size is 202 ,Sync true
+01/08 void test_rapidjson() DTS is 3527889501 ,PTS is 3527889501 ,Size is 200 ,Sync true
+01/08 void test_rapidjson() DTS is 3527912721 ,PTS is 3527912721 ,Size is 199 ,Sync true
+01/08 void test_rapidjson() DTS is 3527935941 ,PTS is 3527935941 ,Size is 202 ,Sync true
+01/08 void test_rapidjson() DTS is 3527959161 ,PTS is 3527959161 ,Size is 201 ,Sync true
+01/08 void test_rapidjson() DTS is 3527982381 ,PTS is 3527982381 ,Size is 175 ,Sync true
+01/08 void test_rapidjson() DTS is 3528005601 ,PTS is 3528005601 ,Size is 187 ,Sync true
+01/08 void test_rapidjson() DTS is 3528028821 ,PTS is 3528028821 ,Size is 191 ,Sync true
+01/08 void test_rapidjson() DTS is 3528052041 ,PTS is 3528052041 ,Size is 191 ,Sync true
+01/08 void test_rapidjson() DTS is 3528075261 ,PTS is 3528075261 ,Size is 184 ,Sync true
+01/08 void test_rapidjson() DTS is 3528098481 ,PTS is 3528098481 ,Size is 165 ,Sync true
+01/08 void test_rapidjson() DTS is 3528121701 ,PTS is 3528121701 ,Size is 186 ,Sync true
+01/08 void test_rapidjson() DTS is 3528144921 ,PTS is 3528144921 ,Size is 197 ,Sync true
+01/08 void test_rapidjson() DTS is 3528168141 ,PTS is 3528168141 ,Size is 182 ,Sync true
+01/08 void test_rapidjson() DTS is 3528191361 ,PTS is 3528191361 ,Size is 186 ,Sync true
+01/08 void test_rapidjson() DTS is 3528214580 ,PTS is 3528214580 ,Size is 175 ,Sync true
+01/08 void test_rapidjson() DTS is 3528237800 ,PTS is 3528237800 ,Size is 190 ,Sync true
+01/08 void test_rapidjson() DTS is 3528261020 ,PTS is 3528261020 ,Size is 192 ,Sync true
+01/08 void test_rapidjson() DTS is 3528284240 ,PTS is 3528284240 ,Size is 177 ,Sync true
+01/08 void test_rapidjson() DTS is 3528307460 ,PTS is 3528307460 ,Size is 205 ,Sync true
+01/08 void test_rapidjson() DTS is 3528330680 ,PTS is 3528330680 ,Size is 195 ,Sync true
+01/08 void test_rapidjson() DTS is 3528353900 ,PTS is 3528353900 ,Size is 176 ,Sync true
+01/08 void test_rapidjson() DTS is 3528377120 ,PTS is 3528377120 ,Size is 218 ,Sync true
+01/08 void test_rapidjson() DTS is 3528400340 ,PTS is 3528400340 ,Size is 183 ,Sync true
+01/08 void test_rapidjson() DTS is 3528423560 ,PTS is 3528423560 ,Size is 178 ,Sync true
+01/08 void test_rapidjson() DTS is 3528446780 ,PTS is 3528446780 ,Size is 174 ,Sync true
+01/08 void test_rapidjson() DTS is 3528470000 ,PTS is 3528470000 ,Size is 185 ,Sync true
+01/08 void test_rapidjson() DTS is 3528493220 ,PTS is 3528493220 ,Size is 178 ,Sync true
+01/08 void test_rapidjson() DTS is 3528516440 ,PTS is 3528516440 ,Size is 206 ,Sync true
+01/08 void test_rapidjson() DTS is 3528539660 ,PTS is 3528539660 ,Size is 192 ,Sync true
+01/08 void test_rapidjson() DTS is 3528562880 ,PTS is 3528562880 ,Size is 209 ,Sync true
+01/08 void test_rapidjson() DTS is 3528586100 ,PTS is 3528586100 ,Size is 178 ,Sync true
+01/08 void test_rapidjson() DTS is 3528609320 ,PTS is 3528609320 ,Size is 195 ,Sync true
+01/08 void test_rapidjson() DTS is 3528632540 ,PTS is 3528632540 ,Size is 198 ,Sync true
+01/08 void test_rapidjson() DTS is 3528655760 ,PTS is 3528655760 ,Size is 188 ,Sync true
+01/08 void test_rapidjson() DTS is 3528678980 ,PTS is 3528678980 ,Size is 203 ,Sync true
+01/08 void test_rapidjson() DTS is 3528702200 ,PTS is 3528702200 ,Size is 189 ,Sync true
+01/08 void test_rapidjson() DTS is 3528725420 ,PTS is 3528725420 ,Size is 171 ,Sync true
+01/08 void test_rapidjson() DTS is 3528748639 ,PTS is 3528748639 ,Size is 199 ,Sync true
+01/08 void test_rapidjson() DTS is 3528771859 ,PTS is 3528771859 ,Size is 194 ,Sync true
+01/08 void test_rapidjson() DTS is 3528795079 ,PTS is 3528795079 ,Size is 191 ,Sync true
+01/08 void test_rapidjson() DTS is 3528818299 ,PTS is 3528818299 ,Size is 217 ,Sync true
+01/08 void test_rapidjson() DTS is 3528841519 ,PTS is 3528841519 ,Size is 216 ,Sync true
+01/08 void test_rapidjson() DTS is 3528864739 ,PTS is 3528864739 ,Size is 205 ,Sync true
+01/08 void test_rapidjson() DTS is 3528887959 ,PTS is 3528887959 ,Size is 190 ,Sync true
+01/08 void test_rapidjson() DTS is 3528911179 ,PTS is 3528911179 ,Size is 197 ,Sync true
+01/08 void test_rapidjson() DTS is 3528934399 ,PTS is 3528934399 ,Size is 184 ,Sync true
+01/08 void test_rapidjson() DTS is 3528957619 ,PTS is 3528957619 ,Size is 200 ,Sync true
+01/08 void test_rapidjson() DTS is 3528980839 ,PTS is 3528980839 ,Size is 190 ,Sync true
+01/08 void test_rapidjson() DTS is 3529004059 ,PTS is 3529004059 ,Size is 185 ,Sync true
+01/08 void test_rapidjson() DTS is 3529027279 ,PTS is 3529027279 ,Size is 199 ,Sync true
+01/08 void test_rapidjson() DTS is 3529050499 ,PTS is 3529050499 ,Size is 173 ,Sync true
+01/08 void test_rapidjson() DTS is 3529073719 ,PTS is 3529073719 ,Size is 201 ,Sync true
+01/08 void test_rapidjson() DTS is 3529096939 ,PTS is 3529096939 ,Size is 200 ,Sync true
+01/08 void test_rapidjson() DTS is 3529120159 ,PTS is 3529120159 ,Size is 197 ,Sync true
+01/08 void test_rapidjson() DTS is 3529143379 ,PTS is 3529143379 ,Size is 186 ,Sync true
+01/08 void test_rapidjson() DTS is 3529166599 ,PTS is 3529166599 ,Size is 192 ,Sync true
+01/08 void test_rapidjson() DTS is 3529189819 ,PTS is 3529189819 ,Size is 194 ,Sync true
+01/08 void test_rapidjson() DTS is 3529213039 ,PTS is 3529213039 ,Size is 190 ,Sync true
+01/08 void test_rapidjson() DTS is 3529236259 ,PTS is 3529236259 ,Size is 180 ,Sync true
+01/08 void test_rapidjson() DTS is 3529259478 ,PTS is 3529259478 ,Size is 192 ,Sync true
+01/08 void test_rapidjson() DTS is 3529282698 ,PTS is 3529282698 ,Size is 177 ,Sync true
+01/08 void test_rapidjson() DTS is 3529305918 ,PTS is 3529305918 ,Size is 198 ,Sync true
+01/08 void test_rapidjson() DTS is 3529329138 ,PTS is 3529329138 ,Size is 183 ,Sync true
+01/08 void test_rapidjson() DTS is 3529352358 ,PTS is 3529352358 ,Size is 203 ,Sync true
+01/08 void test_rapidjson() DTS is 3529375578 ,PTS is 3529375578 ,Size is 209 ,Sync true
+01/08 void test_rapidjson() DTS is 3529398798 ,PTS is 3529398798 ,Size is 189 ,Sync true
+01/08 void test_rapidjson() DTS is 3529422018 ,PTS is 3529422018 ,Size is 190 ,Sync true
+01/08 void test_rapidjson() DTS is 3529445238 ,PTS is 3529445238 ,Size is 191 ,Sync true
+01/08 void test_rapidjson() DTS is 3529468458 ,PTS is 3529468458 ,Size is 203 ,Sync true
+01/08 void test_rapidjson() DTS is 3529491678 ,PTS is 3529491678 ,Size is 198 ,Sync true
+01/08 void test_rapidjson() DTS is 3529514898 ,PTS is 3529514898 ,Size is 197 ,Sync true
+01/08 void test_rapidjson() DTS is 3529538118 ,PTS is 3529538118 ,Size is 174 ,Sync true
+01/08 void test_rapidjson() DTS is 3529561338 ,PTS is 3529561338 ,Size is 197 ,Sync true
+01/08 void test_rapidjson() DTS is 3529584558 ,PTS is 3529584558 ,Size is 189 ,Sync true
+01/08 void test_rapidjson() DTS is 3529607778 ,PTS is 3529607778 ,Size is 192 ,Sync true
+01/08 void test_rapidjson() DTS is 3529630998 ,PTS is 3529630998 ,Size is 204 ,Sync true
+01/08 void test_rapidjson() DTS is 3529654218 ,PTS is 3529654218 ,Size is 201 ,Sync true
+01/08 void test_rapidjson() DTS is 3529677438 ,PTS is 3529677438 ,Size is 183 ,Sync true
+01/08 void test_rapidjson() DTS is 3529700658 ,PTS is 3529700658 ,Size is 174 ,Sync true
+01/08 void test_rapidjson() DTS is 3529723878 ,PTS is 3529723878 ,Size is 183 ,Sync true
+01/08 void test_rapidjson() DTS is 3529747098 ,PTS is 3529747098 ,Size is 194 ,Sync true
+01/08 void test_rapidjson() DTS is 3529770317 ,PTS is 3529770317 ,Size is 199 ,Sync true
+01/08 void test_rapidjson() DTS is 3529793537 ,PTS is 3529793537 ,Size is 200 ,Sync true
+01/08 void test_rapidjson() DTS is 3529816757 ,PTS is 3529816757 ,Size is 194 ,Sync true
+01/08 void test_rapidjson() DTS is 3529839977 ,PTS is 3529839977 ,Size is 201 ,Sync true
+01/08 void test_rapidjson() DTS is 3529863197 ,PTS is 3529863197 ,Size is 199 ,Sync true
+01/08 void test_rapidjson() DTS is 3529886417 ,PTS is 3529886417 ,Size is 201 ,Sync true
+01/08 void test_rapidjson() DTS is 3529909637 ,PTS is 3529909637 ,Size is 189 ,Sync true
+01/08 void test_rapidjson() DTS is 3529932857 ,PTS is 3529932857 ,Size is 208 ,Sync true
+01/08 void test_rapidjson() DTS is 3529956077 ,PTS is 3529956077 ,Size is 185 ,Sync true
+01/08 void test_rapidjson() DTS is 3529979297 ,PTS is 3529979297 ,Size is 194 ,Sync true
+01/08 void test_rapidjson() DTS is 3530002517 ,PTS is 3530002517 ,Size is 184 ,Sync true
+01/08 void test_rapidjson() DTS is 3530025737 ,PTS is 3530025737 ,Size is 194 ,Sync true
+01/08 void test_rapidjson() DTS is 3530048957 ,PTS is 3530048957 ,Size is 189 ,Sync true
+01/08 void test_rapidjson() DTS is 3530072177 ,PTS is 3530072177 ,Size is 209 ,Sync true
+01/08 void test_rapidjson() DTS is 3530095397 ,PTS is 3530095397 ,Size is 192 ,Sync true
+01/08 void test_rapidjson() DTS is 3530118617 ,PTS is 3530118617 ,Size is 192 ,Sync true
+01/08 void test_rapidjson() DTS is 3530141837 ,PTS is 3530141837 ,Size is 194 ,Sync true
+01/08 void test_rapidjson() DTS is 3530165057 ,PTS is 3530165057 ,Size is 188 ,Sync true
+01/08 void test_rapidjson() DTS is 3530188277 ,PTS is 3530188277 ,Size is 198 ,Sync true
+01/08 void test_rapidjson() DTS is 3530211497 ,PTS is 3530211497 ,Size is 179 ,Sync true
+01/08 void test_rapidjson() DTS is 3530234717 ,PTS is 3530234717 ,Size is 190 ,Sync true
+01/08 void test_rapidjson() DTS is 3530257937 ,PTS is 3530257937 ,Size is 180 ,Sync true
+01/08 void test_rapidjson() DTS is 3530281156 ,PTS is 3530281156 ,Size is 214 ,Sync true
+01/08 void test_rapidjson() DTS is 3530304376 ,PTS is 3530304376 ,Size is 196 ,Sync true
+01/08 void test_rapidjson() DTS is 3530327596 ,PTS is 3530327596 ,Size is 199 ,Sync true
+01/08 void test_rapidjson() DTS is 3530350816 ,PTS is 3530350816 ,Size is 185 ,Sync true
+01/08 void test_rapidjson() DTS is 3530374036 ,PTS is 3530374036 ,Size is 199 ,Sync true
+01/08 void test_rapidjson() DTS is 3530397256 ,PTS is 3530397256 ,Size is 202 ,Sync true
+01/08 void test_rapidjson() DTS is 3530420476 ,PTS is 3530420476 ,Size is 201 ,Sync true
+01/08 void test_rapidjson() DTS is 3530443696 ,PTS is 3530443696 ,Size is 200 ,Sync true
+01/08 void test_rapidjson() DTS is 3530466916 ,PTS is 3530466916 ,Size is 205 ,Sync true
+01/08 void test_rapidjson() DTS is 3530490136 ,PTS is 3530490136 ,Size is 206 ,Sync true
+01/08 void test_rapidjson() DTS is 3530513356 ,PTS is 3530513356 ,Size is 191 ,Sync true
+01/08 void test_rapidjson() DTS is 3530536576 ,PTS is 3530536576 ,Size is 196 ,Sync true
+01/08 void test_rapidjson() DTS is 3530559796 ,PTS is 3530559796 ,Size is 198 ,Sync true
+01/08 void test_rapidjson() DTS is 3530583016 ,PTS is 3530583016 ,Size is 185 ,Sync true
+01/08 void test_rapidjson() DTS is 3530606236 ,PTS is 3530606236 ,Size is 191 ,Sync true
+01/08 void test_rapidjson() DTS is 3530629456 ,PTS is 3530629456 ,Size is 208 ,Sync true
+01/08 void test_rapidjson() DTS is 3530652676 ,PTS is 3530652676 ,Size is 184 ,Sync true
+01/08 void test_rapidjson() DTS is 3530675896 ,PTS is 3530675896 ,Size is 205 ,Sync true
+01/08 void test_rapidjson() DTS is 3530699116 ,PTS is 3530699116 ,Size is 234 ,Sync true
+01/08 void test_rapidjson() DTS is 3530722336 ,PTS is 3530722336 ,Size is 196 ,Sync true
+01/08 void test_rapidjson() DTS is 3530745556 ,PTS is 3530745556 ,Size is 181 ,Sync true
+01/08 void test_rapidjson() DTS is 3530768776 ,PTS is 3530768776 ,Size is 204 ,Sync true
+01/08 void test_rapidjson() DTS is 3530791995 ,PTS is 3530791995 ,Size is 186 ,Sync true
+01/08 void test_rapidjson() DTS is 3530815215 ,PTS is 3530815215 ,Size is 149 ,Sync true
+01/08 void test_rapidjson() DTS is 3530838435 ,PTS is 3530838435 ,Size is 185 ,Sync true
+01/08 void test_rapidjson() DTS is 3530861655 ,PTS is 3530861655 ,Size is 193 ,Sync true
+01/08 void test_rapidjson() DTS is 3530884875 ,PTS is 3530884875 ,Size is 170 ,Sync true
+01/08 void test_rapidjson() DTS is 3530908095 ,PTS is 3530908095 ,Size is 184 ,Sync true
+01/08 void test_rapidjson() DTS is 3530931315 ,PTS is 3530931315 ,Size is 181 ,Sync true
+01/08 void test_rapidjson() DTS is 3530954535 ,PTS is 3530954535 ,Size is 192 ,Sync true
+01/08 void test_rapidjson() DTS is 3530977755 ,PTS is 3530977755 ,Size is 187 ,Sync true
+01/08 void test_rapidjson() DTS is 3531000975 ,PTS is 3531000975 ,Size is 180 ,Sync true
+01/08 void test_rapidjson() DTS is 3531024195 ,PTS is 3531024195 ,Size is 189 ,Sync true
+01/08 void test_rapidjson() DTS is 3531047415 ,PTS is 3531047415 ,Size is 182 ,Sync true
+01/08 void test_rapidjson() DTS is 3531070635 ,PTS is 3531070635 ,Size is 186 ,Sync true
+01/08 void test_rapidjson() DTS is 3531093855 ,PTS is 3531093855 ,Size is 214 ,Sync true
+01/08 void test_rapidjson() DTS is 3531117075 ,PTS is 3531117075 ,Size is 223 ,Sync true
+01/08 void test_rapidjson() DTS is 3531140295 ,PTS is 3531140295 ,Size is 186 ,Sync true
+01/08 void test_rapidjson() DTS is 3531163515 ,PTS is 3531163515 ,Size is 210 ,Sync true
+01/08 void test_rapidjson() DTS is 3531186735 ,PTS is 3531186735 ,Size is 197 ,Sync true
+01/08 void test_rapidjson() DTS is 3531209955 ,PTS is 3531209955 ,Size is 199 ,Sync true
+01/08 void test_rapidjson() DTS is 3531233175 ,PTS is 3531233175 ,Size is 171 ,Sync true
+01/08 void test_rapidjson() DTS is 3531256395 ,PTS is 3531256395 ,Size is 198 ,Sync true
+01/08 void test_rapidjson() DTS is 3531279615 ,PTS is 3531279615 ,Size is 195 ,Sync true
+01/08 void test_rapidjson() DTS is 3531302834 ,PTS is 3531302834 ,Size is 193 ,Sync true
+01/08 void test_rapidjson() DTS is 3531326054 ,PTS is 3531326054 ,Size is 198 ,Sync true
+01/08 void test_rapidjson() DTS is 3531349274 ,PTS is 3531349274 ,Size is 195 ,Sync true
+01/08 void test_rapidjson() DTS is 3531372494 ,PTS is 3531372494 ,Size is 187 ,Sync true
+01/08 void test_rapidjson() DTS is 3531395714 ,PTS is 3531395714 ,Size is 213 ,Sync true
+01/08 void test_rapidjson() DTS is 3531418934 ,PTS is 3531418934 ,Size is 184 ,Sync true
+01/08 void test_rapidjson() DTS is 3531442154 ,PTS is 3531442154 ,Size is 186 ,Sync true
+01/08 void test_rapidjson() DTS is 3531465374 ,PTS is 3531465374 ,Size is 188 ,Sync true
+01/08 void test_rapidjson() DTS is 3531488594 ,PTS is 3531488594 ,Size is 215 ,Sync true
+01/08 void test_rapidjson() DTS is 3531511814 ,PTS is 3531511814 ,Size is 173 ,Sync true
+01/08 void test_rapidjson() DTS is 3531535034 ,PTS is 3531535034 ,Size is 182 ,Sync true
+01/08 void test_rapidjson() DTS is 3531558254 ,PTS is 3531558254 ,Size is 192 ,Sync true
+01/08 void test_rapidjson() DTS is 3531581474 ,PTS is 3531581474 ,Size is 194 ,Sync true
+01/08 void test_rapidjson() DTS is 3531604694 ,PTS is 3531604694 ,Size is 189 ,Sync true
+01/08 void test_rapidjson() DTS is 3531627914 ,PTS is 3531627914 ,Size is 222 ,Sync true
+01/08 void test_rapidjson() DTS is 3531651134 ,PTS is 3531651134 ,Size is 185 ,Sync true
+01/08 void test_rapidjson() DTS is 3531674354 ,PTS is 3531674354 ,Size is 180 ,Sync true
+01/08 void test_rapidjson() DTS is 3531697574 ,PTS is 3531697574 ,Size is 184 ,Sync true
+01/08 void test_rapidjson() DTS is 3531720794 ,PTS is 3531720794 ,Size is 183 ,Sync true
+01/08 void test_rapidjson() DTS is 3531744014 ,PTS is 3531744014 ,Size is 187 ,Sync true
+01/08 void test_rapidjson() DTS is 3531767234 ,PTS is 3531767234 ,Size is 195 ,Sync true
+01/08 void test_rapidjson() DTS is 3531790454 ,PTS is 3531790454 ,Size is 206 ,Sync true
+01/08 void test_rapidjson() DTS is 3531813673 ,PTS is 3531813673 ,Size is 198 ,Sync true
+01/08 void test_rapidjson() DTS is 3531836893 ,PTS is 3531836893 ,Size is 199 ,Sync true
+01/08 void test_rapidjson() DTS is 3531860113 ,PTS is 3531860113 ,Size is 178 ,Sync true
+01/08 void test_rapidjson() DTS is 3531883333 ,PTS is 3531883333 ,Size is 201 ,Sync true
+01/08 void test_rapidjson() DTS is 3531906553 ,PTS is 3531906553 ,Size is 188 ,Sync true
+01/08 void test_rapidjson() DTS is 3531929773 ,PTS is 3531929773 ,Size is 198 ,Sync true
+01/08 void test_rapidjson() DTS is 3531952993 ,PTS is 3531952993 ,Size is 206 ,Sync true
+01/08 void test_rapidjson() DTS is 3531976213 ,PTS is 3531976213 ,Size is 197 ,Sync true
+01/08 void test_rapidjson() DTS is 3531999433 ,PTS is 3531999433 ,Size is 175 ,Sync true
+01/08 void test_rapidjson() DTS is 3532022653 ,PTS is 3532022653 ,Size is 196 ,Sync true
+01/08 void test_rapidjson() DTS is 3532045873 ,PTS is 3532045873 ,Size is 187 ,Sync true
+01/08 void test_rapidjson() DTS is 3532069093 ,PTS is 3532069093 ,Size is 221 ,Sync true
+01/08 void test_rapidjson() DTS is 3532092313 ,PTS is 3532092313 ,Size is 200 ,Sync true
+01/08 void test_rapidjson() DTS is 3532115533 ,PTS is 3532115533 ,Size is 189 ,Sync true
+01/08 void test_rapidjson() DTS is 3532138753 ,PTS is 3532138753 ,Size is 188 ,Sync true
+01/08 void test_rapidjson() DTS is 3532161973 ,PTS is 3532161973 ,Size is 203 ,Sync true
+01/08 void test_rapidjson() DTS is 3532185193 ,PTS is 3532185193 ,Size is 192 ,Sync true
+01/08 void test_rapidjson() DTS is 3532208413 ,PTS is 3532208413 ,Size is 181 ,Sync true
+01/08 void test_rapidjson() DTS is 3532231633 ,PTS is 3532231633 ,Size is 188 ,Sync true
+01/08 void test_rapidjson() DTS is 3532254853 ,PTS is 3532254853 ,Size is 180 ,Sync true
+01/08 void test_rapidjson() DTS is 3532278073 ,PTS is 3532278073 ,Size is 191 ,Sync true
+01/08 void test_rapidjson() DTS is 3532301293 ,PTS is 3532301293 ,Size is 183 ,Sync true
+01/08 void test_rapidjson() DTS is 3532324512 ,PTS is 3532324512 ,Size is 194 ,Sync true
+01/08 void test_rapidjson() DTS is 3532347732 ,PTS is 3532347732 ,Size is 212 ,Sync true
+01/08 void test_rapidjson() DTS is 3532370952 ,PTS is 3532370952 ,Size is 208 ,Sync true
+01/08 void test_rapidjson() DTS is 3532394172 ,PTS is 3532394172 ,Size is 177 ,Sync true
+01/08 void test_rapidjson() DTS is 3532417392 ,PTS is 3532417392 ,Size is 215 ,Sync true
+01/08 void test_rapidjson() DTS is 3532440612 ,PTS is 3532440612 ,Size is 215 ,Sync true
+01/08 void test_rapidjson() DTS is 3532463832 ,PTS is 3532463832 ,Size is 176 ,Sync true
+01/08 void test_rapidjson() DTS is 3532487052 ,PTS is 3532487052 ,Size is 202 ,Sync true
+01/08 void test_rapidjson() DTS is 3532510272 ,PTS is 3532510272 ,Size is 176 ,Sync true
+01/08 void test_rapidjson() DTS is 3532533492 ,PTS is 3532533492 ,Size is 175 ,Sync true
+01/08 void test_rapidjson() DTS is 3532556712 ,PTS is 3532556712 ,Size is 196 ,Sync true
+01/08 void test_rapidjson() DTS is 3532579932 ,PTS is 3532579932 ,Size is 195 ,Sync true
+01/08 void test_rapidjson() DTS is 3532603152 ,PTS is 3532603152 ,Size is 189 ,Sync true
+01/08 void test_rapidjson() DTS is 3532626372 ,PTS is 3532626372 ,Size is 202 ,Sync true
+01/08 void test_rapidjson() DTS is 3532649592 ,PTS is 3532649592 ,Size is 181 ,Sync true
+01/08 void test_rapidjson() DTS is 3532672812 ,PTS is 3532672812 ,Size is 190 ,Sync true
+01/08 void test_rapidjson() DTS is 3532696032 ,PTS is 3532696032 ,Size is 209 ,Sync true
+01/08 void test_rapidjson() DTS is 3532719252 ,PTS is 3532719252 ,Size is 196 ,Sync true
+01/08 void test_rapidjson() DTS is 3532742472 ,PTS is 3532742472 ,Size is 184 ,Sync true
+01/08 void test_rapidjson() DTS is 3532765692 ,PTS is 3532765692 ,Size is 204 ,Sync true
+01/08 void test_rapidjson() DTS is 3532788912 ,PTS is 3532788912 ,Size is 192 ,Sync true
+01/08 void test_rapidjson() DTS is 3532812132 ,PTS is 3532812132 ,Size is 184 ,Sync true
+01/08 void test_rapidjson() DTS is 3532835351 ,PTS is 3532835351 ,Size is 197 ,Sync true
+01/08 void test_rapidjson() DTS is 3532858571 ,PTS is 3532858571 ,Size is 195 ,Sync true
+01/08 void test_rapidjson() DTS is 3532881791 ,PTS is 3532881791 ,Size is 188 ,Sync true
+01/08 void test_rapidjson() DTS is 3532905011 ,PTS is 3532905011 ,Size is 198 ,Sync true
+01/08 void test_rapidjson() DTS is 3532928231 ,PTS is 3532928231 ,Size is 182 ,Sync true
+01/08 void test_rapidjson() DTS is 3532951451 ,PTS is 3532951451 ,Size is 181 ,Sync true
+01/08 void test_rapidjson() DTS is 3532974671 ,PTS is 3532974671 ,Size is 188 ,Sync true
+01/08 void test_rapidjson() DTS is 3532997891 ,PTS is 3532997891 ,Size is 202 ,Sync true
+01/08 void test_rapidjson() DTS is 3533021111 ,PTS is 3533021111 ,Size is 186 ,Sync true
+01/08 void test_rapidjson() DTS is 3533044331 ,PTS is 3533044331 ,Size is 193 ,Sync true
+01/08 void test_rapidjson() DTS is 3533067551 ,PTS is 3533067551 ,Size is 185 ,Sync true
+01/08 void test_rapidjson() DTS is 3533090771 ,PTS is 3533090771 ,Size is 197 ,Sync true
+01/08 void test_rapidjson() DTS is 3533113991 ,PTS is 3533113991 ,Size is 195 ,Sync true
+01/08 void test_rapidjson() DTS is 3533137211 ,PTS is 3533137211 ,Size is 187 ,Sync true
+01/08 void test_rapidjson() DTS is 3533160431 ,PTS is 3533160431 ,Size is 190 ,Sync true
+01/08 void test_rapidjson() DTS is 3533183651 ,PTS is 3533183651 ,Size is 185 ,Sync true
+01/08 void test_rapidjson() DTS is 3533206871 ,PTS is 3533206871 ,Size is 222 ,Sync true
+01/08 void test_rapidjson() DTS is 3533230091 ,PTS is 3533230091 ,Size is 204 ,Sync true
+01/08 void test_rapidjson() DTS is 3533253311 ,PTS is 3533253311 ,Size is 175 ,Sync true
+01/08 void test_rapidjson() DTS is 3533276531 ,PTS is 3533276531 ,Size is 195 ,Sync true
+01/08 void test_rapidjson() DTS is 3533299751 ,PTS is 3533299751 ,Size is 196 ,Sync true
+01/08 void test_rapidjson() DTS is 3533322971 ,PTS is 3533322971 ,Size is 187 ,Sync true
+01/08 void test_rapidjson() DTS is 3533346190 ,PTS is 3533346190 ,Size is 197 ,Sync true
+01/08 void test_rapidjson() DTS is 3533369410 ,PTS is 3533369410 ,Size is 195 ,Sync true
+01/08 void test_rapidjson() DTS is 3533392630 ,PTS is 3533392630 ,Size is 202 ,Sync true
+01/08 void test_rapidjson() DTS is 3533415850 ,PTS is 3533415850 ,Size is 193 ,Sync true
+01/08 void test_rapidjson() DTS is 3533439070 ,PTS is 3533439070 ,Size is 194 ,Sync true
+01/08 void test_rapidjson() DTS is 3533462290 ,PTS is 3533462290 ,Size is 187 ,Sync true
+01/08 void test_rapidjson() DTS is 3533485510 ,PTS is 3533485510 ,Size is 187 ,Sync true
+01/08 void test_rapidjson() DTS is 3533508730 ,PTS is 3533508730 ,Size is 196 ,Sync true
+01/08 void test_rapidjson() DTS is 3533531950 ,PTS is 3533531950 ,Size is 191 ,Sync true
+01/08 void test_rapidjson() DTS is 3533555170 ,PTS is 3533555170 ,Size is 186 ,Sync true
+01/08 void test_rapidjson() DTS is 3533578390 ,PTS is 3533578390 ,Size is 185 ,Sync true
+01/08 void test_rapidjson() DTS is 3533601610 ,PTS is 3533601610 ,Size is 184 ,Sync true
+01/08 void test_rapidjson() DTS is 3533624830 ,PTS is 3533624830 ,Size is 207 ,Sync true
+01/08 void test_rapidjson() DTS is 3533648050 ,PTS is 3533648050 ,Size is 203 ,Sync true
+01/08 void test_rapidjson() DTS is 3533671270 ,PTS is 3533671270 ,Size is 184 ,Sync true
+01/08 void test_rapidjson() DTS is 3533694490 ,PTS is 3533694490 ,Size is 187 ,Sync true
+01/08 void test_rapidjson() DTS is 3533717710 ,PTS is 3533717710 ,Size is 199 ,Sync true
+01/08 void test_rapidjson() DTS is 3533740930 ,PTS is 3533740930 ,Size is 199 ,Sync true
+01/08 void test_rapidjson() DTS is 3533764150 ,PTS is 3533764150 ,Size is 191 ,Sync true
+01/08 void test_rapidjson() DTS is 3533787370 ,PTS is 3533787370 ,Size is 185 ,Sync true
+01/08 void test_rapidjson() DTS is 3533810590 ,PTS is 3533810590 ,Size is 189 ,Sync true
+01/08 void test_rapidjson() DTS is 3533833810 ,PTS is 3533833810 ,Size is 195 ,Sync true
+01/08 void test_rapidjson() DTS is 3533857029 ,PTS is 3533857029 ,Size is 194 ,Sync true
+01/08 void test_rapidjson() DTS is 3533880249 ,PTS is 3533880249 ,Size is 197 ,Sync true
+01/08 void test_rapidjson() DTS is 3533903469 ,PTS is 3533903469 ,Size is 191 ,Sync true
+01/08 void test_rapidjson() DTS is 3533926689 ,PTS is 3533926689 ,Size is 192 ,Sync true
+01/08 void test_rapidjson() DTS is 3533949909 ,PTS is 3533949909 ,Size is 184 ,Sync true
+01/08 void test_rapidjson() DTS is 3533973129 ,PTS is 3533973129 ,Size is 182 ,Sync true
+01/08 void test_rapidjson() DTS is 3533996349 ,PTS is 3533996349 ,Size is 198 ,Sync true
+01/08 void test_rapidjson() DTS is 3534019569 ,PTS is 3534019569 ,Size is 192 ,Sync true
+01/08 void test_rapidjson() DTS is 3534042789 ,PTS is 3534042789 ,Size is 196 ,Sync true
+01/08 void test_rapidjson() DTS is 3534066009 ,PTS is 3534066009 ,Size is 181 ,Sync true
+01/08 void test_rapidjson() DTS is 3534089229 ,PTS is 3534089229 ,Size is 185 ,Sync true
+01/08 void test_rapidjson() DTS is 3534112449 ,PTS is 3534112449 ,Size is 176 ,Sync true
+01/08 void test_rapidjson() DTS is 3534135669 ,PTS is 3534135669 ,Size is 200 ,Sync true
+01/08 void test_rapidjson() DTS is 3534158889 ,PTS is 3534158889 ,Size is 198 ,Sync true
+01/08 void test_rapidjson() DTS is 3534182109 ,PTS is 3534182109 ,Size is 181 ,Sync true
+01/08 void test_rapidjson() DTS is 3534205329 ,PTS is 3534205329 ,Size is 188 ,Sync true
+01/08 void test_rapidjson() DTS is 3534228549 ,PTS is 3534228549 ,Size is 190 ,Sync true
+01/08 void test_rapidjson() DTS is 3534251769 ,PTS is 3534251769 ,Size is 188 ,Sync true
+01/08 void test_rapidjson() DTS is 3534274989 ,PTS is 3534274989 ,Size is 185 ,Sync true
+01/08 void test_rapidjson() DTS is 3534298209 ,PTS is 3534298209 ,Size is 191 ,Sync true
+01/08 void test_rapidjson() DTS is 3534321429 ,PTS is 3534321429 ,Size is 179 ,Sync true
+01/08 void test_rapidjson() DTS is 3534344649 ,PTS is 3534344649 ,Size is 183 ,Sync true
+01/08 void test_rapidjson() DTS is 3534367868 ,PTS is 3534367868 ,Size is 183 ,Sync true
+01/08 void test_rapidjson() DTS is 3534391088 ,PTS is 3534391088 ,Size is 194 ,Sync true
+01/08 void test_rapidjson() DTS is 3534414308 ,PTS is 3534414308 ,Size is 183 ,Sync true
+01/08 void test_rapidjson() DTS is 3534437528 ,PTS is 3534437528 ,Size is 191 ,Sync true
+01/08 void test_rapidjson() DTS is 3534460748 ,PTS is 3534460748 ,Size is 205 ,Sync true
+01/08 void test_rapidjson() DTS is 3534483968 ,PTS is 3534483968 ,Size is 192 ,Sync true
+01/08 void test_rapidjson() DTS is 3534507188 ,PTS is 3534507188 ,Size is 206 ,Sync true
+01/08 void test_rapidjson() DTS is 3534530408 ,PTS is 3534530408 ,Size is 183 ,Sync true
+01/08 void test_rapidjson() DTS is 3534553628 ,PTS is 3534553628 ,Size is 167 ,Sync true
+01/08 void test_rapidjson() DTS is 3534576848 ,PTS is 3534576848 ,Size is 191 ,Sync true
+01/08 void test_rapidjson() DTS is 3534600068 ,PTS is 3534600068 ,Size is 197 ,Sync true
+01/08 void test_rapidjson() DTS is 3534623288 ,PTS is 3534623288 ,Size is 187 ,Sync true
+01/08 void test_rapidjson() DTS is 3534646508 ,PTS is 3534646508 ,Size is 192 ,Sync true
+01/08 void test_rapidjson() DTS is 3534669728 ,PTS is 3534669728 ,Size is 183 ,Sync true
+01/08 void test_rapidjson() DTS is 3534692948 ,PTS is 3534692948 ,Size is 205 ,Sync true
+01/08 void test_rapidjson() DTS is 3534716168 ,PTS is 3534716168 ,Size is 178 ,Sync true
+01/08 void test_rapidjson() DTS is 3534739388 ,PTS is 3534739388 ,Size is 176 ,Sync true
+01/08 void test_rapidjson() DTS is 3534762608 ,PTS is 3534762608 ,Size is 180 ,Sync true
+01/08 void test_rapidjson() DTS is 3534785828 ,PTS is 3534785828 ,Size is 173 ,Sync true
+01/08 void test_rapidjson() DTS is 3534809048 ,PTS is 3534809048 ,Size is 169 ,Sync true
+01/08 void test_rapidjson() DTS is 3534832268 ,PTS is 3534832268 ,Size is 192 ,Sync true
+01/08 void test_rapidjson() DTS is 3534855488 ,PTS is 3534855488 ,Size is 113 ,Sync true
+01/08 virtual void SNYGPACMP4::setUri(std::string) /Users/neulion/Documents/docroot/media/现代世界的天才马克思.mp4
+01/08 virtual void SNYGPACMP4::setUri(std::string) /Users/neulion/Documents/docroot/media/现代世界的天才马克思.mp4
+01/08 virtual void SNYGPACMP4::setUri(std::string) /Users/neulion/Documents/docroot/media/2016年维多利亚的秘密时尚内衣秀.HDTV720P.X264.AAC.中英字幕.mp4
+01/08 virtual void SNYGPACMP4::setUri(std::string) /Users/neulion/Documents/docroot/media/2016年维多利亚的秘密时尚内衣秀.HDTV720P.X264.AAC.中英字幕.mp4
+01/08 int test_libevent() MediaServer reached end
+01/08 virtual void SNYGPACMP4::setUri(std::string) /Users/neulion/Documents/docroot/media/2016年维多利亚的秘密时尚内衣秀.HDTV720P.X264.AAC.中英字幕.mp4
+01/08 int test_libevent() MediaServer reached end
+01/08 virtual void SNYGPACMP4::setUri(std::string) /Users/neulion/Documents/docroot/media/2016年维多利亚的秘密时尚内衣秀.HDTV720P.X264.AAC.中英字幕.mp4
+01/08 virtual void SNYGPACMP4::setUri(std::string) /Users/neulion/Documents/docroot/media/2016年维多利亚的秘密时尚内衣秀.HDTV720P.X264.AAC.中英字幕.mp4
+01/08 virtual void SNYGPACMP4::setUri(std::string) /Users/neulion/Documents/docroot/media/2016年维多利亚的秘密时尚内衣秀.HDTV720P.X264.AAC.中英字幕.mp4
+01/08 virtual void SNYGPACMP4::setUri(std::string) /Users/neulion/Documents/docroot/media/2016年维多利亚的秘密时尚内衣秀.HDTV720P.X264.AAC.中英字幕.mp4
+01/08 virtual void SNYGPACMP4::setUri(std::string) /Users/neulion/Documents/docroot/media/2016年维多利亚的秘密时尚内衣秀.HDTV720P.X264.AAC.中英字幕.mp4
+01/08 virtual void SNYGPACMP4::setUri(std::string) /Users/neulion/Documents/docroot/media/2016年维多利亚的秘密时尚内衣秀.HDTV720P.X264.AAC.中英字幕.mp4
+10/08 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Downloads/Learn English conversation-English comedy-English Speaking Part 1.mp4
+10/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"/Users/developer/Downloads/Learn English conversation-English comedy-English Speaking Part 1.mp4"} ] - [200 ]
+10/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/ab35c4a9ef59c005700347f958cd6987/playlist.m3u8 ] - [  ] - [200 ]
+10/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/ab35c4a9ef59c005700347f958cd6987/playlist.m3u8 ] - [  ] - [200 ]
+10/08 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Downloads/English Through Pictures Book 1 Lesson 03 part 1.mp4
+10/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"/Users/developer/Downloads/English Through Pictures Book 1 Lesson 03 part 1.mp4"} ] - [200 ]
+10/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/a994d2a869a9ad0cdbd1ea3314b6a087/playlist.m3u8 ] - [  ] - [200 ]
+10/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/a994d2a869a9ad0cdbd1ea3314b6a087/playlist.m3u8 ] - [  ] - [200 ]
+10/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"/Users/developer/Downloads/1","model":"dir"} ] - [200 ]
+10/08 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Downloads/1/v720.mp4
+10/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"/Users/developer/Downloads/1/v720.mp4"} ] - [200 ]
+10/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/0e7cc6199c6c4050711abb20ddd1e54a/playlist.m3u8 ] - [  ] - [200 ]
+10/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/0e7cc6199c6c4050711abb20ddd1e54a/playlist.m3u8 ] - [  ] - [200 ]
+10/08 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Downloads/Let's talk DVD 01.mp4
+10/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"/Users/developer/Downloads/Let's talk DVD 01.mp4"} ] - [200 ]
+10/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/2c2d64f81fc8f7f8909ecfe0b6d991ce/playlist.m3u8 ] - [  ] - [200 ]
+10/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/2c2d64f81fc8f7f8909ecfe0b6d991ce/playlist.m3u8 ] - [  ] - [200 ]
+10/08 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Downloads/BBC.现代世界天才.2.Nietzsche(2016)水山汉化.mp4
+10/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"/Users/developer/Downloads/BBC.现代世界天才.2.Nietzsche(2016)水山汉化.mp4"} ] - [200 ]
+10/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/20d6701ba72eb3ed012fdfd47d0f6c86/playlist.m3u8 ] - [  ] - [200 ]
+10/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/20d6701ba72eb3ed012fdfd47d0f6c86/playlist.m3u8 ] - [  ] - [200 ]
+11/08 SNYWebService::SNYWebService() /Users/developer/Library/Developer/Xcode/DerivedData/SnyMediaServer_macOS-eebyapcbktrcozdvmluuzdejygdc/Build/Products/Debug/SnyMediaServerApp.app/Contents/Resources/web
+11/08 SNYWebService::SNYWebService() /SnyMediaServerApp.app/Contents/Resources/web
+11/08 SNYWebService::SNYWebService() /Users/developer/Library/Developer/Xcode/DerivedData/SnyMediaServer_macOS-eebyapcbktrcozdvmluuzdejygdc/Build/Products/Debug/./SnyMediaServerApp.app/Contents/Resources/web
+11/08 SNYWebService::SNYWebService() /./SnyMediaServerApp.app/Contents/Resources/web
+11/08 SNYWebService::SNYWebService() /Users/developer/Library/Developer/Xcode/DerivedData/SnyMediaServer_macOS-eebyapcbktrcozdvmluuzdejygdc/Build/Products/Debug
+11/08 SNYWebService::SNYWebService() /Users/developer/Library/Developer/Xcode/DerivedData/SnyMediaServer_macOS-eebyapcbktrcozdvmluuzdejygdc/Build/Products/Debug/./SnyMediaServerApp.app/Contents/Resources/web
+11/08 SNYWebService::SNYWebService() /
+11/08 SNYWebService::SNYWebService() /./SnyMediaServerApp.app/Contents/Resources/web
+11/08 SNYWebService::SNYWebService() /Users/developer/Library/Developer/Xcode/DerivedData/SnyMediaServer_macOS-eebyapcbktrcozdvmluuzdejygdc/Build/Products/Debug
+11/08 SNYWebService::SNYWebService() /Users/developer/Library/Developer/Xcode/DerivedData/SnyMediaServer_macOS-eebyapcbktrcozdvmluuzdejygdc/Build/Products/Debug/./SnyMediaServerApp.app/Contents/Resources/web
+11/08 SNYWebService::SNYWebService(std::string) /Users/developer/Library/Developer/Xcode/DerivedData/SnyMediaServer_macOS-eebyapcbktrcozdvmluuzdejygdc/Build/Products/Debug
+11/08 SNYWebService::SNYWebService(std::string) /Users/developer/Library/Developer/Xcode/DerivedData/SnyMediaServer_macOS-eebyapcbktrcozdvmluuzdejygdc/Build/Products/Debug/./SnyMediaServerApp.app/Contents/Resources/web
+11/08 SNYWebService::SNYWebService(std::string) /Users/developer/Library/Developer/Xcode/DerivedData/SnyMediaServer_macOS-eebyapcbktrcozdvmluuzdejygdc/Build/Products/Debug/SnyMediaServerApp.app/Contents/Resources/web
+11/08 SNYWebService::SNYWebService(std::string) /
+11/08 SNYWebService::SNYWebService(std::string) /./SnyMediaServerApp.app/Contents/Resources/web
+11/08 SNYWebService::SNYWebService(std::string) /Users/developer/Library/Developer/Xcode/DerivedData/SnyMediaServer_macOS-eebyapcbktrcozdvmluuzdejygdc/Build/Products/Debug/SnyMediaServerApp.app/Contents/Resources/web
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /index.html ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /index.html ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/css/app.8c96726b.css ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/css/app.8c96726b.css ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/js/chunk-elementUI.a021ab1c.js ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/js/chunk-elementUI.a021ab1c.js ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/js/chunk-libs.9998ceb6.js ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/js/chunk-libs.9998ceb6.js ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/css/chunk-libs.3dfb7769.css ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/css/chunk-libs.3dfb7769.css ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/js/app.0fe7b6e4.js ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/js/app.0fe7b6e4.js ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/css/chunk-720d49a1.dd1f6be2.css ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/css/chunk-720d49a1.dd1f6be2.css ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/js/chunk-2d21a016.743fda2b.js ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/js/chunk-2d21a016.743fda2b.js ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/js/chunk-720d49a1.1173af99.js ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/js/chunk-720d49a1.1173af99.js ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/fonts/element-icons.2fad952a.woff ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/fonts/element-icons.2fad952a.woff ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"","model":"dir"} ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"/Users","model":"dir"} ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"/Users/developer","model":"dir"} ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"/Users/developer/Downloads","model":"dir"} ] - [200 ]
+11/08 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Downloads/Let's talk DVD 01.mp4
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"/Users/developer/Downloads/Let's talk DVD 01.mp4"} ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/2c2d64f81fc8f7f8909ecfe0b6d991ce/playlist.m3u8 ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/2c2d64f81fc8f7f8909ecfe0b6d991ce/playlist.m3u8 ] - [  ] - [200 ]
+11/08 SNYWebService::SNYWebService(std::string) /
+11/08 SNYWebService::SNYWebService(std::string) /./SnyMediaServerApp.app/Contents/Resources/web
+11/08 SNYWebService::SNYWebService(std::string) /Applications/SnyMediaServerApp.app/Contents/Resources/web
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /index.html ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /index.html ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/js/chunk-elementUI.a021ab1c.js ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/js/chunk-elementUI.a021ab1c.js ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/css/app.8c96726b.css ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/css/app.8c96726b.css ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/css/chunk-libs.3dfb7769.css ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/css/chunk-libs.3dfb7769.css ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/js/chunk-libs.9998ceb6.js ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/js/chunk-libs.9998ceb6.js ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/js/app.0fe7b6e4.js ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/js/app.0fe7b6e4.js ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/js/chunk-2d21a016.743fda2b.js ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/js/chunk-2d21a016.743fda2b.js ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/css/chunk-720d49a1.dd1f6be2.css ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/css/chunk-720d49a1.dd1f6be2.css ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/js/chunk-720d49a1.1173af99.js ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/js/chunk-720d49a1.1173af99.js ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"","model":"dir"} ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/fonts/element-icons.2fad952a.woff ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /static/fonts/element-icons.2fad952a.woff ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"/Users","model":"dir"} ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"/Users/developer","model":"dir"} ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"/Users/developer/Downloads","model":"dir"} ] - [200 ]
+11/08 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Downloads/short.mp4
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"/Users/developer/Downloads/short.mp4"} ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7e0eb49ef6bfb2e2e2b3c1bc12feb362/playlist.m3u8 ] - [  ] - [200 ]
+11/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7e0eb49ef6bfb2e2e2b3c1bc12feb362/playlist.m3u8 ] - [  ] - [200 ]
+29/08 SNYWebService::SNYWebService(std::string) /
+29/08 SNYWebService::SNYWebService(std::string) /./SnyMediaServerApp.app/Contents/Resources/web
+29/08 SNYWebService::SNYWebService(std::string) /Applications/SnyMediaServerApp.app/Contents/Resources/web
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":""} ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"\/Users"} ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"\/Users\/developer"} ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"\/Users\/developer\/Downloads"} ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"\/Users\/developer\/Downloads\/Season2"} ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"\/Users\/developer\/Downloads"} ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"\/Users\/developer\/Downloads\/Season2"} ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"\/Users\/developer\/Downloads"} ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"\/Users\/developer\/Downloads\/Phonics Kids Book 3"} ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"\/Users\/developer\/Downloads\/Phonics Kids Book 3\/Phonics Kids Book 3的DVD视频"} ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"\/Users\/developer\/Downloads\/Phonics Kids Book 3"} ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"\/Users\/developer\/Downloads"} ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"\/Users\/developer\/Downloads\/第02季"} ] - [200 ]
+29/08 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Downloads/第02季/S02E23.mp4
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"\/Users\/developer\/Downloads\/第02季\/S02E23.mp4"} ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/playlist.m3u8 ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/0.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/1.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/2.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/3.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/4.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/5.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/6.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/7.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/8.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/9.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/10.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/11.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/12.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/13.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/14.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/15.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/16.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/17.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/21.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/22.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/23.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/24.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/25.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/26.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/22.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/23.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/24.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/25.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/26.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f6e740ac05787bbf521a20f9bb75a611/27.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"\/Users\/developer\/Downloads"} ] - [200 ]
+29/08 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Downloads/美国工厂.mp4
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"\/Users\/developer\/Downloads\/美国工厂.mp4"} ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/playlist.m3u8 ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/0.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/1.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/2.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/3.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/4.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/5.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/251.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/252.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/253.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/254.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/255.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/256.ts ] - [  ] - [200 ]
+29/08 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Downloads/微积分的本质.mp4
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"\/Users\/developer\/Downloads\/微积分的本质.mp4"} ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/3265ef01c8e5664cc798735ea140eee9/playlist.m3u8 ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/3265ef01c8e5664cc798735ea140eee9/0.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/3265ef01c8e5664cc798735ea140eee9/1.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/3265ef01c8e5664cc798735ea140eee9/2.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/3265ef01c8e5664cc798735ea140eee9/3.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/3265ef01c8e5664cc798735ea140eee9/4.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/3265ef01c8e5664cc798735ea140eee9/5.ts ] - [  ] - [200 ]
+29/08 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Downloads/004r59YNlx07vZdca6Ba01041200iSt40E010.mp4
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"\/Users\/developer\/Downloads\/004r59YNlx07vZdca6Ba01041200iSt40E010.mp4"} ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/d6a040dfa86b0970261299ff6cc7e447/playlist.m3u8 ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/d6a040dfa86b0970261299ff6cc7e447/0.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/d6a040dfa86b0970261299ff6cc7e447/1.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/d6a040dfa86b0970261299ff6cc7e447/2.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/d6a040dfa86b0970261299ff6cc7e447/3.ts ] - [  ] - [200 ]
+29/08 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Downloads/Little Penguin Learns to Swim Kids Story Read Aloud A Short Bedtime Story.mp4
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"\/Users\/developer\/Downloads\/Little Penguin Learns to Swim Kids Story Read Aloud A Short Bedtime Story.mp4"} ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/ac16f98adf33f28f49e1a07b7b097dd1/playlist.m3u8 ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/ac16f98adf33f28f49e1a07b7b097dd1/0.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/ac16f98adf33f28f49e1a07b7b097dd1/1.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/ac16f98adf33f28f49e1a07b7b097dd1/2.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/ac16f98adf33f28f49e1a07b7b097dd1/3.ts ] - [  ] - [200 ]
+29/08 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Downloads/963 Most Important English Words for Understanding Academic Text (NAWL).mp4
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"\/Users\/developer\/Downloads\/963 Most Important English Words for Understanding Academic Text (NAWL).mp4"} ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/playlist.m3u8 ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/0.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/1.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/2.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/3.ts ] - [  ] - [200 ]
+29/08 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Downloads/The Attachment Theory - How Your Childhood Affects Your Relationships.mp4
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"\/Users\/developer\/Downloads\/The Attachment Theory - How Your Childhood Affects Your Relationships.mp4"} ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/c83d48615c427f0be084bddde78c0e68/playlist.m3u8 ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/c83d48615c427f0be084bddde78c0e68/0.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/c83d48615c427f0be084bddde78c0e68/1.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/c83d48615c427f0be084bddde78c0e68/2.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/c83d48615c427f0be084bddde78c0e68/3.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/c83d48615c427f0be084bddde78c0e68/4.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/c83d48615c427f0be084bddde78c0e68/5.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/c83d48615c427f0be084bddde78c0e68/6.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/c83d48615c427f0be084bddde78c0e68/7.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/c83d48615c427f0be084bddde78c0e68/8.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/c83d48615c427f0be084bddde78c0e68/9.ts ] - [  ] - [200 ]
+29/08 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Downloads/陳淑樺-夢醒時分 (官方完整版MV).mp4
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"\/Users\/developer\/Downloads\/陳淑樺-夢醒時分 (官方完整版MV).mp4"} ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/99aac6fe749faea4a6b10b88ae52cd8e/playlist.m3u8 ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/99aac6fe749faea4a6b10b88ae52cd8e/0.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/99aac6fe749faea4a6b10b88ae52cd8e/1.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/99aac6fe749faea4a6b10b88ae52cd8e/2.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/99aac6fe749faea4a6b10b88ae52cd8e/3.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/99aac6fe749faea4a6b10b88ae52cd8e/4.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/99aac6fe749faea4a6b10b88ae52cd8e/5.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/99aac6fe749faea4a6b10b88ae52cd8e/6.ts ] - [  ] - [200 ]
+29/08 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Downloads/PBS纪录片美国经历：镀金时代.mp4
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"\/Users\/developer\/Downloads\/PBS纪录片美国经历：镀金时代.mp4"} ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/0985e19cfbc6a7aa377018ad3e388adc/playlist.m3u8 ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/0985e19cfbc6a7aa377018ad3e388adc/0.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/0985e19cfbc6a7aa377018ad3e388adc/1.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/0985e19cfbc6a7aa377018ad3e388adc/2.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/0985e19cfbc6a7aa377018ad3e388adc/3.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/0985e19cfbc6a7aa377018ad3e388adc/4.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/0985e19cfbc6a7aa377018ad3e388adc/5.ts ] - [  ] - [200 ]
+29/08 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Downloads/美国不发明新的治国理念 美国建国243年经历了58届总统选举和45位总统200多年来美国的宪法之魂从未改变自由平等人权私有财产神圣不可侵犯一直是国家宗旨和治国指南从没有哪位总.mp4
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"\/Users\/developer\/Downloads\/美国不发明新的治国理念 美国建国243年经历了58届总统选举和45位总统200多年来美国的宪法之魂从未改变自由平等人权私有财产神圣不可侵犯一直是国家宗旨和治国指南从没有哪位总.mp4"} ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/ff68e029657c5d214b6eb3669ce18d8b/playlist.m3u8 ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/ff68e029657c5d214b6eb3669ce18d8b/0.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/ff68e029657c5d214b6eb3669ce18d8b/1.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/ff68e029657c5d214b6eb3669ce18d8b/2.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/ff68e029657c5d214b6eb3669ce18d8b/3.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/ff68e029657c5d214b6eb3669ce18d8b/4.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/ff68e029657c5d214b6eb3669ce18d8b/5.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/ff68e029657c5d214b6eb3669ce18d8b/6.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/ff68e029657c5d214b6eb3669ce18d8b/7.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/ff68e029657c5d214b6eb3669ce18d8b/8.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/ff68e029657c5d214b6eb3669ce18d8b/9.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/ff68e029657c5d214b6eb3669ce18d8b/10.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/ff68e029657c5d214b6eb3669ce18d8b/11.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/ff68e029657c5d214b6eb3669ce18d8b/12.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/ff68e029657c5d214b6eb3669ce18d8b/13.ts ] - [  ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"\/Users\/developer\/Downloads\/FireShot"} ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"\/Users\/developer\/Downloads"} ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"\/Users\/developer"} ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"\/Users"} ] - [200 ]
+29/08 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":""} ] - [200 ]
+03/09 SNYWebService::SNYWebService(std::string) /
+03/09 SNYWebService::SNYWebService(std::string) /./SnyMediaServerApp.app/Contents/Resources/web
+03/09 SNYWebService::SNYWebService(std::string) /Applications/SnyMediaServerApp.app/Contents/Resources/web
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [OPTION] - [ /system/getDirectoryContent ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"","model":"dir"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"/Users","model":"dir"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"/Users/developer","model":"dir"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [OPTION] - [ /system/getDirectoryContent ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"/Users/developer/Movies","model":"dir"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"/Users/developer/Library","model":"dir"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"/Users/developer/Desktop","model":"dir"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [OPTION] - [ /media/getMediaInfo ] - [  ] - [200 ]
+03/09 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Desktop/pruittigoemyth_kg_long.mp4
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"/Users/developer/Desktop/pruittigoemyth_kg_long.mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/4478183d9e90d9cd4d72dc4bec2ac92c/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/4478183d9e90d9cd4d72dc4bec2ac92c/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/4478183d9e90d9cd4d72dc4bec2ac92c/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/4478183d9e90d9cd4d72dc4bec2ac92c/1.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/4478183d9e90d9cd4d72dc4bec2ac92c/2.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/4478183d9e90d9cd4d72dc4bec2ac92c/3.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/4478183d9e90d9cd4d72dc4bec2ac92c/4.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/4478183d9e90d9cd4d72dc4bec2ac92c/5.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/4478183d9e90d9cd4d72dc4bec2ac92c/6.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/4478183d9e90d9cd4d72dc4bec2ac92c/7.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/4478183d9e90d9cd4d72dc4bec2ac92c/8.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/4478183d9e90d9cd4d72dc4bec2ac92c/9.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/4478183d9e90d9cd4d72dc4bec2ac92c/10.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/4478183d9e90d9cd4d72dc4bec2ac92c/11.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [OPTION] - [ /media/getMediaInfo ] - [  ] - [200 ]
+03/09 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Desktop/Train Song | Playing with Trains | Counting Nursery Rhymes for Children, Toddlers and Babies.mp4
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"/Users/developer/Desktop/Train Song | Playing with Trains | Counting Nursery Rhymes for Children, Toddlers and Babies.mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/4478183d9e90d9cd4d72dc4bec2ac92c/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/d915e0c7b46ecaa339971fe834909063/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/d915e0c7b46ecaa339971fe834909063/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/d915e0c7b46ecaa339971fe834909063/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/d915e0c7b46ecaa339971fe834909063/1.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/d915e0c7b46ecaa339971fe834909063/2.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/d915e0c7b46ecaa339971fe834909063/3.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [OPTION] - [ /media/getMediaInfo ] - [  ] - [200 ]
+03/09 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Desktop/001W1Tqklx07wFXqZuSc010412009ac70E010.mp4
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"/Users/developer/Desktop/001W1Tqklx07wFXqZuSc010412009ac70E010.mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/083b3a323e7ad022e7ab6f2f6dd7f910/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/083b3a323e7ad022e7ab6f2f6dd7f910/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/083b3a323e7ad022e7ab6f2f6dd7f910/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/083b3a323e7ad022e7ab6f2f6dd7f910/1.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/083b3a323e7ad022e7ab6f2f6dd7f910/2.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/083b3a323e7ad022e7ab6f2f6dd7f910/3.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/d915e0c7b46ecaa339971fe834909063/4.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/083b3a323e7ad022e7ab6f2f6dd7f910/4.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/083b3a323e7ad022e7ab6f2f6dd7f910/5.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/083b3a323e7ad022e7ab6f2f6dd7f910/6.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/083b3a323e7ad022e7ab6f2f6dd7f910/7.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [OPTION] - [ /media/getMediaInfo ] - [  ] - [200 ]
+03/09 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Desktop/000JQcBFlx07vvXtnib601041200wTDp0E010.mp4
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"/Users/developer/Desktop/000JQcBFlx07vvXtnib601041200wTDp0E010.mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/9a786f4df31c0eef69b5b263a2658e29/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/9a786f4df31c0eef69b5b263a2658e29/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/9a786f4df31c0eef69b5b263a2658e29/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/9a786f4df31c0eef69b5b263a2658e29/1.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/9a786f4df31c0eef69b5b263a2658e29/2.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/9a786f4df31c0eef69b5b263a2658e29/3.ts ] - [  ] - [200 ]
+03/09 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Desktop/004njTDwlx07rSdLodny01041200CGsr0E010.mp4
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"/Users/developer/Desktop/004njTDwlx07rSdLodny01041200CGsr0E010.mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/f3ca9d410bd4c1e15f86c0eea7455465/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/f3ca9d410bd4c1e15f86c0eea7455465/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/f3ca9d410bd4c1e15f86c0eea7455465/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/f3ca9d410bd4c1e15f86c0eea7455465/1.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/f3ca9d410bd4c1e15f86c0eea7455465/2.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/f3ca9d410bd4c1e15f86c0eea7455465/3.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/9a786f4df31c0eef69b5b263a2658e29/4.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [OPTION] - [ /media/getMediaInfo ] - [  ] - [200 ]
+03/09 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Desktop/002KeEfhlx07tm0uFFoA01041200pnJV0E010.mp4
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"/Users/developer/Desktop/002KeEfhlx07tm0uFFoA01041200pnJV0E010.mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/1.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/2.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/3.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/f3ca9d410bd4c1e15f86c0eea7455465/4.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [OPTION] - [ /media/getMediaInfo ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"/Users/developer/Desktop/002KeEfhlx07tm0uFFoA01041200pnJV0E010.mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"/Users/developer/Desktop/002KeEfhlx07tm0uFFoA01041200pnJV0E010.mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"/Users/developer/Desktop/002KeEfhlx07tm0uFFoA01041200pnJV0E010.mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/1.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/2.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/3.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/4.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/4.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/5.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/6.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/7.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/1.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/2.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/3.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/4.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/5.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/6.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/8.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/7.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/8.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/9.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/10.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/11.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/12.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/13.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/14.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/15.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/16.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/17.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/18.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/19.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/20.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/21.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/22.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/23.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/24.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/25.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/26.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/27.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/7b3db968550be3bd106a4a3a590b76a7/28.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [OPTION] - [ /media/getMediaInfo ] - [  ] - [200 ]
+03/09 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Desktop/003rg1AIlx07wgUIER2E010412005HHA0E010.mp4
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"/Users/developer/Desktop/003rg1AIlx07wgUIER2E010412005HHA0E010.mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/01ab20709ec23e33b47f00eb1e0dd08e/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/01ab20709ec23e33b47f00eb1e0dd08e/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/01ab20709ec23e33b47f00eb1e0dd08e/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/01ab20709ec23e33b47f00eb1e0dd08e/1.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"/Users/developer/Desktop/003rg1AIlx07wgUIER2E010412005HHA0E010.mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/01ab20709ec23e33b47f00eb1e0dd08e/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/01ab20709ec23e33b47f00eb1e0dd08e/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/01ab20709ec23e33b47f00eb1e0dd08e/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/01ab20709ec23e33b47f00eb1e0dd08e/1.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [OPTION] - [ /media/getMediaInfo ] - [  ] - [200 ]
+03/09 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Desktop/001OU2kslx07tNmBXkXm010412003FVL0E010.mp4
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"/Users/developer/Desktop/001OU2kslx07tNmBXkXm010412003FVL0E010.mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/0fcf19ee20f1024d988afd9af845873c/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/0fcf19ee20f1024d988afd9af845873c/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/0fcf19ee20f1024d988afd9af845873c/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/0fcf19ee20f1024d988afd9af845873c/1.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/0fcf19ee20f1024d988afd9af845873c/2.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":""} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"\/Users"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"\/Users\/developer"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"\/Users\/developer\/Desktop"} ] - [200 ]
+03/09 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Desktop/003QO9Imlx07tAj1u43C0104120aPGaz0E040.mp4
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"\/Users\/developer\/Desktop\/003QO9Imlx07tAj1u43C0104120aPGaz0E040.mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/56288e9b1da234e3a8586463be28d229/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/56288e9b1da234e3a8586463be28d229/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/56288e9b1da234e3a8586463be28d229/1.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/56288e9b1da234e3a8586463be28d229/2.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/56288e9b1da234e3a8586463be28d229/3.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/56288e9b1da234e3a8586463be28d229/4.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"\/Users\/developer\/Desktop\/001OU2kslx07tNmBXkXm010412003FVL0E010.mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/0fcf19ee20f1024d988afd9af845873c/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/0fcf19ee20f1024d988afd9af845873c/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/0fcf19ee20f1024d988afd9af845873c/1.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/0fcf19ee20f1024d988afd9af845873c/2.ts ] - [  ] - [200 ]
+03/09 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Desktop/001FyGIolx07wGYq6KYE01041206H5Xi0E030.mp4
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"\/Users\/developer\/Desktop\/001FyGIolx07wGYq6KYE01041206H5Xi0E030.mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/e3fb3b163df7ea001ab6e09c9e21e698/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/e3fb3b163df7ea001ab6e09c9e21e698/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/e3fb3b163df7ea001ab6e09c9e21e698/1.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/e3fb3b163df7ea001ab6e09c9e21e698/2.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/e3fb3b163df7ea001ab6e09c9e21e698/3.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/e3fb3b163df7ea001ab6e09c9e21e698/4.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/e3fb3b163df7ea001ab6e09c9e21e698/5.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/e3fb3b163df7ea001ab6e09c9e21e698/78.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/e3fb3b163df7ea001ab6e09c9e21e698/79.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/e3fb3b163df7ea001ab6e09c9e21e698/80.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/e3fb3b163df7ea001ab6e09c9e21e698/81.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/e3fb3b163df7ea001ab6e09c9e21e698/82.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/e3fb3b163df7ea001ab6e09c9e21e698/83.ts ] - [  ] - [200 ]
+03/09 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Desktop/003zcqa2lx07waCknYis01041200hp0f0E010.mp4
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"\/Users\/developer\/Desktop\/003zcqa2lx07waCknYis01041200hp0f0E010.mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/061ce89a71638dc73d630053c4a26b4f/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/061ce89a71638dc73d630053c4a26b4f/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/061ce89a71638dc73d630053c4a26b4f/1.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/061ce89a71638dc73d630053c4a26b4f/2.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/061ce89a71638dc73d630053c4a26b4f/3.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/061ce89a71638dc73d630053c4a26b4f/4.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/061ce89a71638dc73d630053c4a26b4f/5.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/061ce89a71638dc73d630053c4a26b4f/6.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/061ce89a71638dc73d630053c4a26b4f/7.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/061ce89a71638dc73d630053c4a26b4f/8.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/061ce89a71638dc73d630053c4a26b4f/9.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/061ce89a71638dc73d630053c4a26b4f/10.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/061ce89a71638dc73d630053c4a26b4f/11.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/061ce89a71638dc73d630053c4a26b4f/12.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/061ce89a71638dc73d630053c4a26b4f/13.ts ] - [  ] - [200 ]
+03/09 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Desktop/Train Song | Playing with Trains | Counting Nursery Rhymes for Children, Toddlers and Babies.mp4
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"\/Users\/developer\/Desktop\/Train Song | Playing with Trains | Counting Nursery Rhymes for Children, Toddlers and Babies.mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/d915e0c7b46ecaa339971fe834909063/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/d915e0c7b46ecaa339971fe834909063/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/d915e0c7b46ecaa339971fe834909063/1.ts ] - [  ] - [200 ]
+03/09 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Desktop/004njTDwlx07rSdLodny01041200CGsr0E010.mp4
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"\/Users\/developer\/Desktop\/004njTDwlx07rSdLodny01041200CGsr0E010.mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f3ca9d410bd4c1e15f86c0eea7455465/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f3ca9d410bd4c1e15f86c0eea7455465/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f3ca9d410bd4c1e15f86c0eea7455465/1.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f3ca9d410bd4c1e15f86c0eea7455465/2.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f3ca9d410bd4c1e15f86c0eea7455465/3.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f3ca9d410bd4c1e15f86c0eea7455465/4.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f3ca9d410bd4c1e15f86c0eea7455465/5.ts ] - [  ] - [200 ]
+03/09 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Desktop/003MO1Tplx07vsSfjNmE010412005XYI0E010.mp4
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"\/Users\/developer\/Desktop\/003MO1Tplx07vsSfjNmE010412005XYI0E010.mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/cc8db57448e96d1442e2db3169509adc/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/cc8db57448e96d1442e2db3169509adc/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/cc8db57448e96d1442e2db3169509adc/1.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/cc8db57448e96d1442e2db3169509adc/2.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/cc8db57448e96d1442e2db3169509adc/3.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/cc8db57448e96d1442e2db3169509adc/4.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/cc8db57448e96d1442e2db3169509adc/5.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [OPTION] - [ /media/getMediaInfo ] - [  ] - [200 ]
+03/09 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Desktop/001OU2kslx07tNmBXkXm010412003FVL0E010.mp4
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"/Users/developer/Desktop/001OU2kslx07tNmBXkXm010412003FVL0E010.mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/0fcf19ee20f1024d988afd9af845873c/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/0fcf19ee20f1024d988afd9af845873c/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/0fcf19ee20f1024d988afd9af845873c/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/0fcf19ee20f1024d988afd9af845873c/1.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/0fcf19ee20f1024d988afd9af845873c/2.ts ] - [  ] - [200 ]
+03/09 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Desktop/里根 复旦大学.mp4
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"\/Users\/developer\/Desktop\/里根 复旦大学.mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/978493c201f831b41542504584cfbbbd/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/978493c201f831b41542504584cfbbbd/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/978493c201f831b41542504584cfbbbd/1.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/978493c201f831b41542504584cfbbbd/2.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/978493c201f831b41542504584cfbbbd/3.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/978493c201f831b41542504584cfbbbd/4.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/978493c201f831b41542504584cfbbbd/5.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/978493c201f831b41542504584cfbbbd/41.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/978493c201f831b41542504584cfbbbd/42.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/978493c201f831b41542504584cfbbbd/43.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/978493c201f831b41542504584cfbbbd/44.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/978493c201f831b41542504584cfbbbd/45.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/978493c201f831b41542504584cfbbbd/115.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/978493c201f831b41542504584cfbbbd/116.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/978493c201f831b41542504584cfbbbd/117.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/978493c201f831b41542504584cfbbbd/118.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/978493c201f831b41542504584cfbbbd/119.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/978493c201f831b41542504584cfbbbd/120.ts ] - [  ] - [200 ]
+03/09 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Desktop/003zcqa2lx07waCknYis01041200hp0f0E010.mp4
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"\/Users\/developer\/Desktop\/003zcqa2lx07waCknYis01041200hp0f0E010.mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/061ce89a71638dc73d630053c4a26b4f/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/061ce89a71638dc73d630053c4a26b4f/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/061ce89a71638dc73d630053c4a26b4f/1.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/061ce89a71638dc73d630053c4a26b4f/2.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/061ce89a71638dc73d630053c4a26b4f/3.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/061ce89a71638dc73d630053c4a26b4f/4.ts ] - [  ] - [200 ]
+03/09 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Desktop/001FyGIolx07wGYq6KYE01041206H5Xi0E030.mp4
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"\/Users\/developer\/Desktop\/001FyGIolx07wGYq6KYE01041206H5Xi0E030.mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/e3fb3b163df7ea001ab6e09c9e21e698/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/e3fb3b163df7ea001ab6e09c9e21e698/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/e3fb3b163df7ea001ab6e09c9e21e698/1.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/e3fb3b163df7ea001ab6e09c9e21e698/2.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/e3fb3b163df7ea001ab6e09c9e21e698/3.ts ] - [  ] - [200 ]
+03/09 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Desktop/004vRYwnlx07sQsaM9U4010412019wJq0E010.mp4
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"\/Users\/developer\/Desktop\/004vRYwnlx07sQsaM9U4010412019wJq0E010.mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/7723bee3ba99e97f599f4dbf20ba45c4/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/7723bee3ba99e97f599f4dbf20ba45c4/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/7723bee3ba99e97f599f4dbf20ba45c4/1.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/7723bee3ba99e97f599f4dbf20ba45c4/2.ts ] - [  ] - [200 ]
+03/09 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Desktop/控制情绪.mp4
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"\/Users\/developer\/Desktop\/控制情绪.mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/0bb643da8a96b8f3bc8052f72dac0a7a/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/0bb643da8a96b8f3bc8052f72dac0a7a/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/0bb643da8a96b8f3bc8052f72dac0a7a/1.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/0bb643da8a96b8f3bc8052f72dac0a7a/2.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/0bb643da8a96b8f3bc8052f72dac0a7a/3.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/0bb643da8a96b8f3bc8052f72dac0a7a/4.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/0bb643da8a96b8f3bc8052f72dac0a7a/5.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/0bb643da8a96b8f3bc8052f72dac0a7a/30.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/0bb643da8a96b8f3bc8052f72dac0a7a/31.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/0bb643da8a96b8f3bc8052f72dac0a7a/32.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/0bb643da8a96b8f3bc8052f72dac0a7a/33.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"\/Users\/developer\/Desktop\/offline mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"\/Users\/developer\/Desktop"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"\/Users\/developer\/Desktop\/TOEFL"} ] - [200 ]
+03/09 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Desktop/TOEFL/4000 Essential English Words 4.mp4
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"\/Users\/developer\/Desktop\/TOEFL\/4000 Essential English Words 4.mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f00529a656e4407cba76d55daddc9dd3/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f00529a656e4407cba76d55daddc9dd3/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [GET] - [ /media/vod/f00529a656e4407cba76d55daddc9dd3/1.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"\/Users\/developer\/Desktop"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"\/Users\/developer"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"\/Users"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 192.168.1.7:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":""} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [OPTION] - [ /system/getDirectoryContent ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"/Users/developer/Desktop/offline mp4","model":"dir"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"/Users/developer/Desktop/ca_cert","model":"dir"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"/Users/developer/Desktop/小童天下","model":"dir"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [OPTION] - [ /system/getDirectoryContent ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"/Users/developer/Desktop/小童天下/Pages","model":"dir"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [OPTION] - [ /system/getDirectoryContent ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"/Users/developer/ninja","model":"dir"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"/Users/developer/ninja/ninja","model":"dir"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"/Users/developer/ninja/ninja/build","model":"dir"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"/Users/developer/ninja/ninja/src","model":"dir"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"/Users/developer/ninja/ninja/doc","model":"dir"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [OPTION] - [ /system/getDirectoryContent ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"/Users/developer/ninja/ninja/misc","model":"dir"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"/Users/developer/Documents","model":"dir"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [OPTION] - [ /system/getDirectoryContent ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"/Users/Shared","model":"dir"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"/Users/developer/Downloads","model":"dir"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [OPTION] - [ /media/getMediaInfo ] - [  ] - [200 ]
+03/09 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Downloads/美国工厂.mp4
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"/Users/developer/Downloads/美国工厂.mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/1.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/2.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/3.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/47.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/46.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/47.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/48.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/49.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/117.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/116.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/117.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/118.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/119.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/120.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/a6cdd5271d6eed3d30da79ed7b4ae6d6/121.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [OPTION] - [ /media/getMediaInfo ] - [  ] - [200 ]
+03/09 virtual void SNYGPACMP4::setUri(std::string) /Users/developer/Downloads/963 Most Important English Words for Understanding Academic Text (NAWL).mp4
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /media/getMediaInfo ] - [ {"path":"/Users/developer/Downloads/963 Most Important English Words for Understanding Academic Text (NAWL).mp4"} ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/playlist.m3u8 ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/0.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/1.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/2.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/3.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/18.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/17.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/18.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/19.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/20.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/21.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/78.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/77.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/78.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/79.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/80.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/81.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/187.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/186.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/187.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/188.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/189.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/190.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/271.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/270.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/271.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/272.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/273.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/274.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [GET] - [ /media/vod/302b882cd35132542e0bfda568baf984/275.ts ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [OPTION] - [ /system/getDirectoryContent ] - [  ] - [200 ]
+03/09 void SNYMediaServer::onRequest(Network::IHttpRequestPtr) 127.0.0.1:8064 - [POST] - [ /system/getDirectoryContent ] - [ {"path":"","model":"dir"} ] - [200 ]

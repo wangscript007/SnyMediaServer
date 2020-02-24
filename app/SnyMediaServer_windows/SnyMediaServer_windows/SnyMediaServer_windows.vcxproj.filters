@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\mediaserver">
+      <UniqueIdentifier>{541173f6-cb79-4347-ab86-05abe14c4f12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\core">
+      <UniqueIdentifier>{f4764da1-7fc7-4955-8b22-e65544630bc9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\log">
+      <UniqueIdentifier>{e1f32757-70aa-4b19-97a0-a9d7a0cc6c6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\utils">
+      <UniqueIdentifier>{5f5f8195-55fc-4c7b-ba1a-388f35495497}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\core\mpegts">
+      <UniqueIdentifier>{88385df7-a2d8-4935-9274-fa4b26b2ccc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\core\http">
+      <UniqueIdentifier>{45194f91-2fa3-4665-a213-1293a40c2c3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\mediaserver">
+      <UniqueIdentifier>{30167ebc-d175-4c1b-8ef5-9c2fe8cf775a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\core">
+      <UniqueIdentifier>{cc6d9f48-c83d-49e5-ac19-ca0a98410196}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\log">
+      <UniqueIdentifier>{65362c81-976b-41f7-ba60-0e6a569810c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\utils">
+      <UniqueIdentifier>{bc6c1765-a814-422e-86dd-46cf18812b66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\core\mpegts">
+      <UniqueIdentifier>{c90632bf-62be-4f04-97b8-b299451b4094}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\core\http">
+      <UniqueIdentifier>{5ab405e4-bb64-4a32-98a7-f4610277b569}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\core\mpegts\Ap4AdtsParser.cpp">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\mpegts\Ap4AvcParser.cpp">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\mpegts\Ap4BitStream.cpp">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\mpegts\Ap4ByteStream.cpp">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\mpegts\Ap4DataBuffer.cpp">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\mpegts\Ap4Debug.cpp">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\mpegts\Ap4HevcParser.cpp">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\mpegts\Ap4Mp4AudioInfo.cpp">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\mpegts\Ap4Mpeg2Ts.cpp">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\mpegts\Ap4NalParser.cpp">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\mpegts\Ap4Results.cpp">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\mpegts\Ap4Sample.cpp">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\mpegts\Ap4String.cpp">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\mpegts\Ap4Utils.cpp">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\http\http_server.cpp">
+      <Filter>源文件\core\http</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\log\easylogging++.cc">
+      <Filter>源文件\log</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\util\md5.cpp">
+      <Filter>源文件\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\util\utsname.cpp">
+      <Filter>源文件\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\SnyArgument.cpp">
+      <Filter>源文件\core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\SnyDataBuffer.cpp">
+      <Filter>源文件\core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\SnyDictionary.cpp">
+      <Filter>源文件\core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\SnyEventManager.cpp">
+      <Filter>源文件\core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\SnyGPACMediaInfo.cpp">
+      <Filter>源文件\core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\SnyGPACMP4.cpp">
+      <Filter>源文件\core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\SnyGPACMP4Track.cpp">
+      <Filter>源文件\core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\SnyIDemuxer.cpp">
+      <Filter>源文件\core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\SnyIOStream.cpp">
+      <Filter>源文件\core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\SnyMachineInfo.cpp">
+      <Filter>源文件\core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\SnyMediatype.cpp">
+      <Filter>源文件\core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\SnyRefobj.cpp">
+      <Filter>源文件\core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\SnyResults.cpp">
+      <Filter>源文件\core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\SnySample.cpp">
+      <Filter>源文件\core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\SnyThreads.cpp">
+      <Filter>源文件\core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\SnyUtils.cpp">
+      <Filter>源文件\core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\core\SnyVariantValue.cpp">
+      <Filter>源文件\core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\mediaserver\SnyBroadcastService.cpp">
+      <Filter>源文件\mediaserver</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\mediaserver\SnyLiveManager.cpp">
+      <Filter>源文件\mediaserver</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\mediaserver\SnyMediaServer.cpp">
+      <Filter>源文件\mediaserver</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\mediaserver\SnyMediaServerType.cpp">
+      <Filter>源文件\mediaserver</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\mediaserver\SnyMediaService.cpp">
+      <Filter>源文件\mediaserver</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\mediaserver\SnySystemService.cpp">
+      <Filter>源文件\mediaserver</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\mediaserver\SnyVODChannel.cpp">
+      <Filter>源文件\mediaserver</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\mediaserver\SnyVODManager.cpp">
+      <Filter>源文件\mediaserver</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\mediaserver\SnyVODMediaManifest.cpp">
+      <Filter>源文件\mediaserver</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\mediaserver\SnyWebService.cpp">
+      <Filter>源文件\mediaserver</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\core\mpegts\Ap4AdtsParser.h">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\mpegts\Ap4Array.h">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\mpegts\Ap4AvcParser.h">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\mpegts\Ap4BitStream.h">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\mpegts\Ap4ByteStream.h">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\mpegts\Ap4Config.h">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\mpegts\Ap4Constants.h">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\mpegts\Ap4DataBuffer.h">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\mpegts\Ap4Debug.h">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\mpegts\Ap4HevcParser.h">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\mpegts\Ap4Interfaces.h">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\mpegts\Ap4List.h">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\mpegts\Ap4Mp4AudioInfo.h">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\mpegts\Ap4Mpeg2Ts.h">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\mpegts\Ap4NalParser.h">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\mpegts\Ap4Results.h">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\mpegts\Ap4Sample.h">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\mpegts\Ap4SampleDescription.h">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\mpegts\Ap4String.h">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\mpegts\Ap4Types.h">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\mpegts\Ap4Utils.h">
+      <Filter>源文件\core\mpegts</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\http\exceptions.h">
+      <Filter>源文件\core\http</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\http\http_content_type.h">
+      <Filter>源文件\core\http</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\http\http_headers.h">
+      <Filter>源文件\core\http</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\http\http_request.h">
+      <Filter>源文件\core\http</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\http\http_server.h">
+      <Filter>源文件\core\http</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\http\non_copyable.h">
+      <Filter>源文件\core\http</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\http\static_counter.h">
+      <Filter>源文件\core\http</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\http\string_constant.h">
+      <Filter>源文件\core\http</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\http\tools.h">
+      <Filter>源文件\core\http</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\http\type_registry.h">
+      <Filter>源文件\core\http</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\log\easylogging++.h">
+      <Filter>源文件\log</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\util\md5.h">
+      <Filter>源文件\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\util\utsname.h">
+      <Filter>源文件\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\SnyArgument.h">
+      <Filter>源文件\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\SnyConfig.h">
+      <Filter>源文件\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\SnyConstants.h">
+      <Filter>源文件\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\SnyDataBuffer.h">
+      <Filter>源文件\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\SnyDictionary.h">
+      <Filter>源文件\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\SnyEventManager.h">
+      <Filter>源文件\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\SnyGPACMediaInfo.h">
+      <Filter>源文件\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\SnyGPACMP4.h">
+      <Filter>源文件\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\SnyGPACMP4Track.h">
+      <Filter>源文件\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\SnyHLSConstants.h">
+      <Filter>源文件\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\SnyIDemuxer.h">
+      <Filter>源文件\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\SnyIEventCallback.h">
+      <Filter>源文件\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\SnyIOStream.h">
+      <Filter>源文件\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\SnyMachineInfo.h">
+      <Filter>源文件\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\SnyMediatype.h">
+      <Filter>源文件\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\SnyPlatform.h">
+      <Filter>源文件\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\SnyRefobj.h">
+      <Filter>源文件\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\SnyResults.h">
+      <Filter>源文件\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\SnySample.h">
+      <Filter>源文件\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\SnyThreads.h">
+      <Filter>源文件\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\SnyType.h">
+      <Filter>源文件\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\SnyUtils.h">
+      <Filter>源文件\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\SnyVariantValue.h">
+      <Filter>源文件\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\core\typedefine.h">
+      <Filter>源文件\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\mediaserver\SnyBroadcastService.h">
+      <Filter>源文件\mediaserver</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\mediaserver\SnyLiveManager.h">
+      <Filter>源文件\mediaserver</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\mediaserver\SnyMediaServer.h">
+      <Filter>源文件\mediaserver</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\mediaserver\SnyMediaServerType.h">
+      <Filter>源文件\mediaserver</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\mediaserver\SnyMediaService.h">
+      <Filter>源文件\mediaserver</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\mediaserver\SnyRevision.h">
+      <Filter>源文件\mediaserver</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\mediaserver\SnySystemService.h">
+      <Filter>源文件\mediaserver</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\mediaserver\SnyVersion.h">
+      <Filter>源文件\mediaserver</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\mediaserver\SnyVODChannel.h">
+      <Filter>源文件\mediaserver</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\mediaserver\SnyVODManager.h">
+      <Filter>源文件\mediaserver</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\mediaserver\SnyVODMediaManifest.h">
+      <Filter>源文件\mediaserver</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\mediaserver\SnyVODSingleBitRatePlaylist.h">
+      <Filter>源文件\mediaserver</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\mediaserver\SnyWebService.h">
+      <Filter>源文件\mediaserver</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

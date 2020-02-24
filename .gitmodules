@@ -1,0 +1,15 @@
+[submodule "third-party/FFmpeg"]
+	path = third-party/FFmpeg
+	url = https://github.com/FFmpeg/FFmpeg.git
+[submodule "third-party/libevent"]
+	path = third-party/libevent
+	url = https://github.com/libevent/libevent.git
+[submodule "third-party/rapidjson"]
+	path = third-party/rapidjson
+	url = https://github.com/Tencent/rapidjson.git
+[submodule "third-party/Bento4"]
+	path = third-party/Bento4
+	url = https://github.com/axiomatic-systems/Bento4.git
+[submodule "third-party/fmt"]
+	path = third-party/fmt
+	url = https://github.com/fmtlib/fmt

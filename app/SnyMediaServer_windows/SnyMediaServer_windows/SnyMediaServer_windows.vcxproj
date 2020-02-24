@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>15.0</VCProjectVersion>
+    <ProjectGuid>{034E2954-35D5-4307-B510-28E08154343B}</ProjectGuid>
+    <RootNamespace>SnyMediaServerwindows</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <ProjectName>SnyMediaServer.dynamic</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <EnableModules>true</EnableModules>
+      <PreprocessorDefinitions>_WINSOCK_DEPRECATED_NO_WARNINGS;_CRT_SECURE_NO_WARNINGS;_HAS_STD_BYTE=0;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(ProjectDir)..\..\..\third-party-compiled\libevent\win\x86\debug\include;$(ProjectDir)..\..\..\third-party-compiled\gpac\win\x86\debug\include;$(ProjectDir)..\..\..\third-party\rapidjson\include;$(ProjectDir)..\..\..\core;$(ProjectDir)..\..\..\core\http;$(ProjectDir)..\..\..\core\mpegts;$(ProjectDir)..\..\..\log;$(ProjectDir)..\..\..\util;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <AdditionalLibraryDirectories>$(ProjectDir)..\..\..\third-party-compiled\libevent\win\x86\debug\lib;$(ProjectDir)..\..\..\third-party-compiled\gpac\win\x86\debug\lib\;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>libgpac.lib;libevent_core.lib;libevent_extras.lib;Ws2_32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <EnableModules>true</EnableModules>
+      <PreprocessorDefinitions>_WINSOCK_DEPRECATED_NO_WARNINGS;_CRT_SECURE_NO_WARNINGS;_HAS_STD_BYTE=0;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <EnableModules>true</EnableModules>
+      <AdditionalIncludeDirectories>$(ProjectDir)..\..\..\third-party-compiled\libevent\win\x86\release\include;$(ProjectDir)..\..\..\third-party-compiled\gpac\win\x86\release\include;$(ProjectDir)..\..\..\third-party\rapidjson\include;$(ProjectDir)..\..\..\core;$(ProjectDir)..\..\..\core\http;$(ProjectDir)..\..\..\core\mpegts;$(ProjectDir)..\..\..\log;$(ProjectDir)..\..\..\util;$(ProjectDir)..\..\..\mediaserver;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_WINSOCK_DEPRECATED_NO_WARNINGS;_CRT_SECURE_NO_WARNINGS;_HAS_STD_BYTE=0;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <EnableModules>true</EnableModules>
+      <PreprocessorDefinitions>_WINSOCK_DEPRECATED_NO_WARNINGS;_CRT_SECURE_NO_WARNINGS;_HAS_STD_BYTE=0;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\core\http\http_server.cpp" />
+    <ClCompile Include="..\..\..\core\mpegts\Ap4AdtsParser.cpp" />
+    <ClCompile Include="..\..\..\core\mpegts\Ap4AvcParser.cpp" />
+    <ClCompile Include="..\..\..\core\mpegts\Ap4BitStream.cpp" />
+    <ClCompile Include="..\..\..\core\mpegts\Ap4ByteStream.cpp" />
+    <ClCompile Include="..\..\..\core\mpegts\Ap4DataBuffer.cpp" />
+    <ClCompile Include="..\..\..\core\mpegts\Ap4Debug.cpp" />
+    <ClCompile Include="..\..\..\core\mpegts\Ap4HevcParser.cpp" />
+    <ClCompile Include="..\..\..\core\mpegts\Ap4Mp4AudioInfo.cpp" />
+    <ClCompile Include="..\..\..\core\mpegts\Ap4Mpeg2Ts.cpp" />
+    <ClCompile Include="..\..\..\core\mpegts\Ap4NalParser.cpp" />
+    <ClCompile Include="..\..\..\core\mpegts\Ap4Results.cpp" />
+    <ClCompile Include="..\..\..\core\mpegts\Ap4Sample.cpp" />
+    <ClCompile Include="..\..\..\core\mpegts\Ap4String.cpp" />
+    <ClCompile Include="..\..\..\core\mpegts\Ap4Utils.cpp" />
+    <ClCompile Include="..\..\..\core\SnyArgument.cpp" />
+    <ClCompile Include="..\..\..\core\SnyDataBuffer.cpp" />
+    <ClCompile Include="..\..\..\core\SnyDictionary.cpp" />
+    <ClCompile Include="..\..\..\core\SnyEventManager.cpp" />
+    <ClCompile Include="..\..\..\core\SnyGPACMediaInfo.cpp" />
+    <ClCompile Include="..\..\..\core\SnyGPACMP4.cpp" />
+    <ClCompile Include="..\..\..\core\SnyGPACMP4Track.cpp" />
+    <ClCompile Include="..\..\..\core\SnyIDemuxer.cpp" />
+    <ClCompile Include="..\..\..\core\SnyIOStream.cpp" />
+    <ClCompile Include="..\..\..\core\SnyMachineInfo.cpp" />
+    <ClCompile Include="..\..\..\core\SnyMediatype.cpp" />
+    <ClCompile Include="..\..\..\core\SnyRefobj.cpp" />
+    <ClCompile Include="..\..\..\core\SnyResults.cpp" />
+    <ClCompile Include="..\..\..\core\SnySample.cpp" />
+    <ClCompile Include="..\..\..\core\SnyThreads.cpp" />
+    <ClCompile Include="..\..\..\core\SnyUtils.cpp" />
+    <ClCompile Include="..\..\..\core\SnyVariantValue.cpp" />
+    <ClCompile Include="..\..\..\log\easylogging++.cc" />
+    <ClCompile Include="..\..\..\mediaserver\SnyBroadcastService.cpp" />
+    <ClCompile Include="..\..\..\mediaserver\SnyLiveManager.cpp" />
+    <ClCompile Include="..\..\..\mediaserver\SnyMediaServer.cpp" />
+    <ClCompile Include="..\..\..\mediaserver\SnyMediaServerType.cpp" />
+    <ClCompile Include="..\..\..\mediaserver\SnyMediaService.cpp" />
+    <ClCompile Include="..\..\..\mediaserver\SnySystemService.cpp" />
+    <ClCompile Include="..\..\..\mediaserver\SnyVODChannel.cpp" />
+    <ClCompile Include="..\..\..\mediaserver\SnyVODManager.cpp" />
+    <ClCompile Include="..\..\..\mediaserver\SnyVODMediaManifest.cpp" />
+    <ClCompile Include="..\..\..\mediaserver\SnyWebService.cpp" />
+    <ClCompile Include="..\..\..\util\md5.cpp" />
+    <ClCompile Include="..\..\..\util\utsname.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\core\http\exceptions.h" />
+    <ClInclude Include="..\..\..\core\http\http_content_type.h" />
+    <ClInclude Include="..\..\..\core\http\http_headers.h" />
+    <ClInclude Include="..\..\..\core\http\http_request.h" />
+    <ClInclude Include="..\..\..\core\http\http_server.h" />
+    <ClInclude Include="..\..\..\core\http\non_copyable.h" />
+    <ClInclude Include="..\..\..\core\http\static_counter.h" />
+    <ClInclude Include="..\..\..\core\http\string_constant.h" />
+    <ClInclude Include="..\..\..\core\http\tools.h" />
+    <ClInclude Include="..\..\..\core\http\type_registry.h" />
+    <ClInclude Include="..\..\..\core\mpegts\Ap4AdtsParser.h" />
+    <ClInclude Include="..\..\..\core\mpegts\Ap4Array.h" />
+    <ClInclude Include="..\..\..\core\mpegts\Ap4AvcParser.h" />
+    <ClInclude Include="..\..\..\core\mpegts\Ap4BitStream.h" />
+    <ClInclude Include="..\..\..\core\mpegts\Ap4ByteStream.h" />
+    <ClInclude Include="..\..\..\core\mpegts\Ap4Config.h" />
+    <ClInclude Include="..\..\..\core\mpegts\Ap4Constants.h" />
+    <ClInclude Include="..\..\..\core\mpegts\Ap4DataBuffer.h" />
+    <ClInclude Include="..\..\..\core\mpegts\Ap4Debug.h" />
+    <ClInclude Include="..\..\..\core\mpegts\Ap4HevcParser.h" />
+    <ClInclude Include="..\..\..\core\mpegts\Ap4Interfaces.h" />
+    <ClInclude Include="..\..\..\core\mpegts\Ap4List.h" />
+    <ClInclude Include="..\..\..\core\mpegts\Ap4Mp4AudioInfo.h" />
+    <ClInclude Include="..\..\..\core\mpegts\Ap4Mpeg2Ts.h" />
+    <ClInclude Include="..\..\..\core\mpegts\Ap4NalParser.h" />
+    <ClInclude Include="..\..\..\core\mpegts\Ap4Results.h" />
+    <ClInclude Include="..\..\..\core\mpegts\Ap4Sample.h" />
+    <ClInclude Include="..\..\..\core\mpegts\Ap4SampleDescription.h" />
+    <ClInclude Include="..\..\..\core\mpegts\Ap4String.h" />
+    <ClInclude Include="..\..\..\core\mpegts\Ap4Types.h" />
+    <ClInclude Include="..\..\..\core\mpegts\Ap4Utils.h" />
+    <ClInclude Include="..\..\..\core\SnyArgument.h" />
+    <ClInclude Include="..\..\..\core\SnyConfig.h" />
+    <ClInclude Include="..\..\..\core\SnyConstants.h" />
+    <ClInclude Include="..\..\..\core\SnyDataBuffer.h" />
+    <ClInclude Include="..\..\..\core\SnyDictionary.h" />
+    <ClInclude Include="..\..\..\core\SnyEventManager.h" />
+    <ClInclude Include="..\..\..\core\SnyGPACMediaInfo.h" />
+    <ClInclude Include="..\..\..\core\SnyGPACMP4.h" />
+    <ClInclude Include="..\..\..\core\SnyGPACMP4Track.h" />
+    <ClInclude Include="..\..\..\core\SnyHLSConstants.h" />
+    <ClInclude Include="..\..\..\core\SnyIDemuxer.h" />
+    <ClInclude Include="..\..\..\core\SnyIEventCallback.h" />
+    <ClInclude Include="..\..\..\core\SnyIOStream.h" />
+    <ClInclude Include="..\..\..\core\SnyMachineInfo.h" />
+    <ClInclude Include="..\..\..\core\SnyMediatype.h" />
+    <ClInclude Include="..\..\..\core\SnyPlatform.h" />
+    <ClInclude Include="..\..\..\core\SnyRefobj.h" />
+    <ClInclude Include="..\..\..\core\SnyResults.h" />
+    <ClInclude Include="..\..\..\core\SnySample.h" />
+    <ClInclude Include="..\..\..\core\SnyThreads.h" />
+    <ClInclude Include="..\..\..\core\SnyType.h" />
+    <ClInclude Include="..\..\..\core\SnyUtils.h" />
+    <ClInclude Include="..\..\..\core\SnyVariantValue.h" />
+    <ClInclude Include="..\..\..\core\typedefine.h" />
+    <ClInclude Include="..\..\..\log\easylogging++.h" />
+    <ClInclude Include="..\..\..\mediaserver\SnyBroadcastService.h" />
+    <ClInclude Include="..\..\..\mediaserver\SnyLiveManager.h" />
+    <ClInclude Include="..\..\..\mediaserver\SnyMediaServer.h" />
+    <ClInclude Include="..\..\..\mediaserver\SnyMediaServerType.h" />
+    <ClInclude Include="..\..\..\mediaserver\SnyMediaService.h" />
+    <ClInclude Include="..\..\..\mediaserver\SnyRevision.h" />
+    <ClInclude Include="..\..\..\mediaserver\SnySystemService.h" />
+    <ClInclude Include="..\..\..\mediaserver\SnyVersion.h" />
+    <ClInclude Include="..\..\..\mediaserver\SnyVODChannel.h" />
+    <ClInclude Include="..\..\..\mediaserver\SnyVODManager.h" />
+    <ClInclude Include="..\..\..\mediaserver\SnyVODMediaManifest.h" />
+    <ClInclude Include="..\..\..\mediaserver\SnyVODSingleBitRatePlaylist.h" />
+    <ClInclude Include="..\..\..\mediaserver\SnyWebService.h" />
+    <ClInclude Include="..\..\..\util\md5.h" />
+    <ClInclude Include="..\..\..\util\utsname.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

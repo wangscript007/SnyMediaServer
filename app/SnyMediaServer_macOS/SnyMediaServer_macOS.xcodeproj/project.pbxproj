@@ -1,0 +1,1159 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		87DC0D50213C1ADB0052FF90 /* Ap4Mpeg2Ts.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0D2D213C1AD90052FF90 /* Ap4Mpeg2Ts.cpp */; };
+		87DC0D51213C1ADB0052FF90 /* Ap4Sample.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D2E213C1AD90052FF90 /* Ap4Sample.h */; };
+		87DC0D52213C1ADB0052FF90 /* Ap4Results.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D2F213C1AD90052FF90 /* Ap4Results.h */; };
+		87DC0D53213C1ADB0052FF90 /* Ap4String.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D30213C1AD90052FF90 /* Ap4String.h */; };
+		87DC0D54213C1ADB0052FF90 /* Ap4Types.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D31213C1AD90052FF90 /* Ap4Types.h */; };
+		87DC0D55213C1ADB0052FF90 /* Ap4AdtsParser.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0D32213C1AD90052FF90 /* Ap4AdtsParser.cpp */; };
+		87DC0D56213C1ADB0052FF90 /* Ap4BitStream.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D33213C1AD90052FF90 /* Ap4BitStream.h */; };
+		87DC0D57213C1ADB0052FF90 /* Ap4BitStream.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0D34213C1AD90052FF90 /* Ap4BitStream.cpp */; };
+		87DC0D58213C1ADB0052FF90 /* Ap4HevcParser.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D35213C1AD90052FF90 /* Ap4HevcParser.h */; };
+		87DC0D59213C1ADB0052FF90 /* Ap4String.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0D36213C1AD90052FF90 /* Ap4String.cpp */; };
+		87DC0D5A213C1ADB0052FF90 /* Ap4Mpeg2Ts.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D37213C1AD90052FF90 /* Ap4Mpeg2Ts.h */; };
+		87DC0D5B213C1ADB0052FF90 /* Ap4List.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D38213C1AD90052FF90 /* Ap4List.h */; };
+		87DC0D5C213C1ADB0052FF90 /* Ap4SampleDescription.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D39213C1AD90052FF90 /* Ap4SampleDescription.h */; };
+		87DC0D5D213C1ADB0052FF90 /* Ap4Array.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D3A213C1AD90052FF90 /* Ap4Array.h */; };
+		87DC0D5E213C1ADB0052FF90 /* Ap4DataBuffer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0D3B213C1AD90052FF90 /* Ap4DataBuffer.cpp */; };
+		87DC0D5F213C1ADB0052FF90 /* Ap4AvcParser.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D3C213C1ADA0052FF90 /* Ap4AvcParser.h */; };
+		87DC0D60213C1ADB0052FF90 /* Ap4Results.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0D3D213C1ADA0052FF90 /* Ap4Results.cpp */; };
+		87DC0D61213C1ADB0052FF90 /* Ap4Sample.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0D3E213C1ADA0052FF90 /* Ap4Sample.cpp */; };
+		87DC0D62213C1ADB0052FF90 /* Ap4Utils.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0D3F213C1ADA0052FF90 /* Ap4Utils.cpp */; };
+		87DC0D63213C1ADB0052FF90 /* Ap4NalParser.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D40213C1ADA0052FF90 /* Ap4NalParser.h */; };
+		87DC0D64213C1ADB0052FF90 /* Ap4AvcParser.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0D41213C1ADA0052FF90 /* Ap4AvcParser.cpp */; };
+		87DC0D65213C1ADB0052FF90 /* Ap4Debug.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D42213C1ADA0052FF90 /* Ap4Debug.h */; };
+		87DC0D66213C1ADB0052FF90 /* Ap4NalParser.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0D43213C1ADA0052FF90 /* Ap4NalParser.cpp */; };
+		87DC0D67213C1ADB0052FF90 /* Ap4Utils.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D44213C1ADA0052FF90 /* Ap4Utils.h */; };
+		87DC0D68213C1ADB0052FF90 /* Ap4HevcParser.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0D45213C1ADA0052FF90 /* Ap4HevcParser.cpp */; };
+		87DC0D69213C1ADB0052FF90 /* Ap4ByteStream.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0D46213C1ADA0052FF90 /* Ap4ByteStream.cpp */; };
+		87DC0D6A213C1ADB0052FF90 /* Ap4DataBuffer.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D47213C1ADA0052FF90 /* Ap4DataBuffer.h */; };
+		87DC0D6B213C1ADB0052FF90 /* Ap4ByteStream.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D48213C1ADA0052FF90 /* Ap4ByteStream.h */; };
+		87DC0D6C213C1ADB0052FF90 /* Ap4Config.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D49213C1ADB0052FF90 /* Ap4Config.h */; };
+		87DC0D6D213C1ADB0052FF90 /* Ap4Constants.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D4A213C1ADB0052FF90 /* Ap4Constants.h */; };
+		87DC0D6E213C1ADB0052FF90 /* Ap4Mp4AudioInfo.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0D4B213C1ADB0052FF90 /* Ap4Mp4AudioInfo.cpp */; };
+		87DC0D6F213C1ADB0052FF90 /* Ap4Mp4AudioInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D4C213C1ADB0052FF90 /* Ap4Mp4AudioInfo.h */; };
+		87DC0D70213C1ADB0052FF90 /* Ap4Debug.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0D4D213C1ADB0052FF90 /* Ap4Debug.cpp */; };
+		87DC0D71213C1ADB0052FF90 /* Ap4AdtsParser.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D4E213C1ADB0052FF90 /* Ap4AdtsParser.h */; };
+		87DC0D72213C1ADB0052FF90 /* Ap4Interfaces.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D4F213C1ADB0052FF90 /* Ap4Interfaces.h */; };
+		87DC0D7E213C1AE90052FF90 /* http_request.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D73213C1AE80052FF90 /* http_request.h */; };
+		87DC0D7F213C1AE90052FF90 /* http_server.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D74213C1AE80052FF90 /* http_server.h */; };
+		87DC0D80213C1AE90052FF90 /* string_constant.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D75213C1AE80052FF90 /* string_constant.h */; };
+		87DC0D81213C1AE90052FF90 /* type_registry.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D76213C1AE80052FF90 /* type_registry.h */; };
+		87DC0D82213C1AE90052FF90 /* http_content_type.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D77213C1AE80052FF90 /* http_content_type.h */; };
+		87DC0D83213C1AE90052FF90 /* static_counter.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D78213C1AE80052FF90 /* static_counter.h */; };
+		87DC0D84213C1AE90052FF90 /* tools.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D79213C1AE80052FF90 /* tools.h */; };
+		87DC0D85213C1AE90052FF90 /* http_server.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0D7A213C1AE90052FF90 /* http_server.cpp */; };
+		87DC0D86213C1AE90052FF90 /* http_headers.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D7B213C1AE90052FF90 /* http_headers.h */; };
+		87DC0D87213C1AE90052FF90 /* non_copyable.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D7C213C1AE90052FF90 /* non_copyable.h */; };
+		87DC0D88213C1AE90052FF90 /* exceptions.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D7D213C1AE90052FF90 /* exceptions.h */; };
+		87DC0DB2213C1AFC0052FF90 /* SnyIDemuxer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0D89213C1AF90052FF90 /* SnyIDemuxer.cpp */; };
+		87DC0DB3213C1AFC0052FF90 /* SnyPlatform.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D8A213C1AF90052FF90 /* SnyPlatform.h */; };
+		87DC0DB4213C1AFC0052FF90 /* SnySample.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D8B213C1AF90052FF90 /* SnySample.h */; };
+		87DC0DB5213C1AFC0052FF90 /* SnyUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D8C213C1AF90052FF90 /* SnyUtils.h */; };
+		87DC0DB6213C1AFC0052FF90 /* SnyRefobj.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0D8D213C1AF90052FF90 /* SnyRefobj.cpp */; };
+		87DC0DB7213C1AFC0052FF90 /* SnyGPACMediaInfo.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0D8E213C1AF90052FF90 /* SnyGPACMediaInfo.cpp */; };
+		87DC0DB8213C1AFC0052FF90 /* SnyRefobj.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D8F213C1AF90052FF90 /* SnyRefobj.h */; };
+		87DC0DB9213C1AFC0052FF90 /* SnyIOStream.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D90213C1AF90052FF90 /* SnyIOStream.h */; };
+		87DC0DBA213C1AFC0052FF90 /* SnyDictionary.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D91213C1AF90052FF90 /* SnyDictionary.h */; };
+		87DC0DBB213C1AFC0052FF90 /* SnyGPACMP4.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D92213C1AF90052FF90 /* SnyGPACMP4.h */; };
+		87DC0DBC213C1AFC0052FF90 /* SnyDictionary.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0D93213C1AF90052FF90 /* SnyDictionary.cpp */; };
+		87DC0DBD213C1AFC0052FF90 /* SnyDataBuffer.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D94213C1AF90052FF90 /* SnyDataBuffer.h */; };
+		87DC0DBE213C1AFC0052FF90 /* SnyMachineInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D95213C1AF90052FF90 /* SnyMachineInfo.h */; };
+		87DC0DBF213C1AFC0052FF90 /* SnyThreads.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0D96213C1AF90052FF90 /* SnyThreads.cpp */; };
+		87DC0DC0213C1AFC0052FF90 /* SnyThreads.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D97213C1AF90052FF90 /* SnyThreads.h */; };
+		87DC0DC1213C1AFC0052FF90 /* SnyMediatype.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D98213C1AF90052FF90 /* SnyMediatype.h */; };
+		87DC0DC2213C1AFC0052FF90 /* SnyIOStream.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0D99213C1AF90052FF90 /* SnyIOStream.cpp */; };
+		87DC0DC3213C1AFC0052FF90 /* SnyType.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D9A213C1AFA0052FF90 /* SnyType.h */; };
+		87DC0DC4213C1AFC0052FF90 /* SnyArgument.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0D9B213C1AFA0052FF90 /* SnyArgument.cpp */; };
+		87DC0DC5213C1AFC0052FF90 /* SnyDataBuffer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0D9C213C1AFA0052FF90 /* SnyDataBuffer.cpp */; };
+		87DC0DC6213C1AFC0052FF90 /* SnyIEventCallback.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D9D213C1AFA0052FF90 /* SnyIEventCallback.h */; };
+		87DC0DC7213C1AFC0052FF90 /* SnyIDemuxer.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D9E213C1AFA0052FF90 /* SnyIDemuxer.h */; };
+		87DC0DC8213C1AFC0052FF90 /* SnyResults.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0D9F213C1AFA0052FF90 /* SnyResults.h */; };
+		87DC0DC9213C1AFC0052FF90 /* SnyMachineInfo.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0DA0213C1AFA0052FF90 /* SnyMachineInfo.cpp */; };
+		87DC0DCA213C1AFC0052FF90 /* SnyVariantValue.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0DA1213C1AFA0052FF90 /* SnyVariantValue.cpp */; };
+		87DC0DCB213C1AFC0052FF90 /* SnyGPACMP4Track.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0DA2213C1AFA0052FF90 /* SnyGPACMP4Track.cpp */; };
+		87DC0DCC213C1AFC0052FF90 /* SnyConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0DA3213C1AFA0052FF90 /* SnyConstants.h */; };
+		87DC0DCD213C1AFC0052FF90 /* SnyGPACMP4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0DA4213C1AFA0052FF90 /* SnyGPACMP4.cpp */; };
+		87DC0DCE213C1AFC0052FF90 /* SnyEventManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0DA5213C1AFA0052FF90 /* SnyEventManager.h */; };
+		87DC0DCF213C1AFC0052FF90 /* SnyGPACMP4Track.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0DA6213C1AFB0052FF90 /* SnyGPACMP4Track.h */; };
+		87DC0DD0213C1AFC0052FF90 /* SnyResults.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0DA7213C1AFB0052FF90 /* SnyResults.cpp */; };
+		87DC0DD1213C1AFC0052FF90 /* SnyUtils.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0DA8213C1AFB0052FF90 /* SnyUtils.cpp */; };
+		87DC0DD2213C1AFC0052FF90 /* SnyHLSConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0DA9213C1AFB0052FF90 /* SnyHLSConstants.h */; };
+		87DC0DD3213C1AFC0052FF90 /* SnyEventManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0DAA213C1AFB0052FF90 /* SnyEventManager.cpp */; };
+		87DC0DD4213C1AFC0052FF90 /* SnyConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0DAB213C1AFB0052FF90 /* SnyConfig.h */; };
+		87DC0DD5213C1AFC0052FF90 /* SnyVariantValue.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0DAC213C1AFB0052FF90 /* SnyVariantValue.h */; };
+		87DC0DD6213C1AFC0052FF90 /* SnyArgument.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0DAD213C1AFB0052FF90 /* SnyArgument.h */; };
+		87DC0DD7213C1AFC0052FF90 /* typedefine.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0DAE213C1AFB0052FF90 /* typedefine.h */; };
+		87DC0DD8213C1AFC0052FF90 /* SnyMediatype.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0DAF213C1AFB0052FF90 /* SnyMediatype.cpp */; };
+		87DC0DD9213C1AFC0052FF90 /* SnySample.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0DB0213C1AFB0052FF90 /* SnySample.cpp */; };
+		87DC0DDA213C1AFC0052FF90 /* SnyGPACMediaInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0DB1213C1AFB0052FF90 /* SnyGPACMediaInfo.h */; };
+		87DC0DDD213C1B080052FF90 /* easylogging++.cc in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0DDB213C1B080052FF90 /* easylogging++.cc */; };
+		87DC0DDE213C1B080052FF90 /* easylogging++.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0DDC213C1B080052FF90 /* easylogging++.h */; };
+		87DC0DF6213C1B1A0052FF90 /* SnyPlaylist.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0DDF213C1B190052FF90 /* SnyPlaylist.h */; };
+		87DC0DF7213C1B1A0052FF90 /* SnyVersion.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0DE0213C1B190052FF90 /* SnyVersion.h */; };
+		87DC0DF8213C1B1A0052FF90 /* SnyWebService.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0DE1213C1B190052FF90 /* SnyWebService.h */; };
+		87DC0DF9213C1B1A0052FF90 /* SnyMediaService.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0DE2213C1B190052FF90 /* SnyMediaService.cpp */; };
+		87DC0DFA213C1B1A0052FF90 /* SnyWebService.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0DE3213C1B190052FF90 /* SnyWebService.cpp */; };
+		87DC0DFB213C1B1A0052FF90 /* SnyRevision.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0DE4213C1B190052FF90 /* SnyRevision.h */; };
+		87DC0DFC213C1B1A0052FF90 /* SnyPlaylist.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0DE5213C1B190052FF90 /* SnyPlaylist.cpp */; };
+		87DC0DFD213C1B1A0052FF90 /* SnyVODManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0DE6213C1B190052FF90 /* SnyVODManager.h */; };
+		87DC0DFE213C1B1A0052FF90 /* SnyVODMediaManifest.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0DE7213C1B190052FF90 /* SnyVODMediaManifest.h */; };
+		87DC0DFF213C1B1A0052FF90 /* SnySystemService.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0DE8213C1B190052FF90 /* SnySystemService.h */; };
+		87DC0E00213C1B1A0052FF90 /* SnyLiveManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0DE9213C1B190052FF90 /* SnyLiveManager.h */; };
+		87DC0E01213C1B1A0052FF90 /* SnyVODChannel.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0DEA213C1B190052FF90 /* SnyVODChannel.h */; };
+		87DC0E02213C1B1A0052FF90 /* SnyVODMediaManifest.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0DEB213C1B190052FF90 /* SnyVODMediaManifest.cpp */; };
+		87DC0E03213C1B1A0052FF90 /* SnyMediaServer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0DEC213C1B190052FF90 /* SnyMediaServer.cpp */; };
+		87DC0E04213C1B1A0052FF90 /* SnyBroadcastService.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0DED213C1B190052FF90 /* SnyBroadcastService.h */; };
+		87DC0E05213C1B1A0052FF90 /* SnyLiveManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0DEE213C1B190052FF90 /* SnyLiveManager.cpp */; };
+		87DC0E06213C1B1A0052FF90 /* SnyMediaServer.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0DEF213C1B190052FF90 /* SnyMediaServer.h */; };
+		87DC0E07213C1B1A0052FF90 /* SnySystemService.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0DF0213C1B1A0052FF90 /* SnySystemService.cpp */; };
+		87DC0E08213C1B1A0052FF90 /* SnyVODManager.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0DF1213C1B1A0052FF90 /* SnyVODManager.cpp */; };
+		87DC0E09213C1B1A0052FF90 /* SnyBroadcastService.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0DF2213C1B1A0052FF90 /* SnyBroadcastService.cpp */; };
+		87DC0E0A213C1B1A0052FF90 /* SnyMediaService.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0DF3213C1B1A0052FF90 /* SnyMediaService.h */; };
+		87DC0E0B213C1B1A0052FF90 /* SnyVODSingleBitRatePlaylist.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0DF4213C1B1A0052FF90 /* SnyVODSingleBitRatePlaylist.h */; };
+		87DC0E0C213C1B1A0052FF90 /* SnyVODChannel.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0DF5213C1B1A0052FF90 /* SnyVODChannel.cpp */; };
+		87DC0E0F213C1B290052FF90 /* md5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DC0E0D213C1B290052FF90 /* md5.cpp */; };
+		87DC0E10213C1B290052FF90 /* md5.h in Headers */ = {isa = PBXBuildFile; fileRef = 87DC0E0E213C1B290052FF90 /* md5.h */; };
+		87DE0EAF213BEFCF00E8EF68 /* SnyMediaServer_dynamic.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 87DE0EAE213BEFCF00E8EF68 /* SnyMediaServer_dynamic.hpp */; };
+		87DE0EB1213BEFCF00E8EF68 /* SnyMediaServer_dynamicPriv.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 87DE0EB0213BEFCF00E8EF68 /* SnyMediaServer_dynamicPriv.hpp */; };
+		87DE0EB3213BEFCF00E8EF68 /* SnyMediaServer_dynamic.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87DE0EB2213BEFCF00E8EF68 /* SnyMediaServer_dynamic.cpp */; };
+		8B17C98422FDCEB6000BD8DA /* libcrypto.1.1.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 8B17C98022FDCE82000BD8DA /* libcrypto.1.1.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		8B17C98522FDCEBC000BD8DA /* libssl.1.1.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 8B17C98122FDCE82000BD8DA /* libssl.1.1.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		8B17C98822FDCF9A000BD8DA /* libcrypto.1.1.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B17C98022FDCE82000BD8DA /* libcrypto.1.1.dylib */; };
+		8B17C98922FDCF9A000BD8DA /* libssl.1.1.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B17C98122FDCE82000BD8DA /* libssl.1.1.dylib */; };
+		8B45D99D22F885A9000087A4 /* SnyAuthenticator.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8B45D99B22F885A8000087A4 /* SnyAuthenticator.cpp */; };
+		8B45D99E22F885A9000087A4 /* SnyAuthenticator.h in Headers */ = {isa = PBXBuildFile; fileRef = 8B45D99C22F885A9000087A4 /* SnyAuthenticator.h */; };
+		8B4B1F0A215A64FB00301344 /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 8B4B1F09215A64FB00301344 /* AppDelegate.mm */; };
+		8B4B1F0C215A64FC00301344 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B4B1F0B215A64FC00301344 /* Assets.xcassets */; };
+		8B4B1F0F215A64FC00301344 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8B4B1F0D215A64FC00301344 /* MainMenu.xib */; };
+		8B4B1F12215A64FC00301344 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B4B1F11215A64FC00301344 /* main.m */; };
+		8B4B1F19215A65C600301344 /* libSnyMediaServer.dynamic.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 87DE0EAB213BEFCF00E8EF68 /* libSnyMediaServer.dynamic.dylib */; };
+		8B4B1F1B215A668700301344 /* libgpac.0.7.1.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B4B1F1A215A668700301344 /* libgpac.0.7.1.dylib */; };
+		8B4B1F1E215A669A00301344 /* libevent_core-2.1.6.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B4B1F1C215A669A00301344 /* libevent_core-2.1.6.dylib */; };
+		8B4B1F1F215A669A00301344 /* libevent_extra-2.1.6.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B4B1F1D215A669A00301344 /* libevent_extra-2.1.6.dylib */; };
+		8B4B1F21215A66BB00301344 /* libSnyMediaServer.dynamic.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 87DE0EAB213BEFCF00E8EF68 /* libSnyMediaServer.dynamic.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		8B4B1F22215A66C200301344 /* libevent_core-2.1.6.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 8B4B1F1C215A669A00301344 /* libevent_core-2.1.6.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		8B4B1F23215A66C200301344 /* libevent_extra-2.1.6.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 8B4B1F1D215A669A00301344 /* libevent_extra-2.1.6.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		8B4B1F24215A66C200301344 /* libgpac.0.7.1.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = 8B4B1F1A215A668700301344 /* libgpac.0.7.1.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		8B93C27922FEBC8A006D63A1 /* web in Resources */ = {isa = PBXBuildFile; fileRef = 8B93C27822FEBC8A006D63A1 /* web */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		8B4B1F17215A65BE00301344 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 87DE0EA1213BEE7300E8EF68 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 87DE0EAA213BEFCF00E8EF68;
+			remoteInfo = SnyMediaServer.dynamic;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		8B4B1F20215A66AE00301344 /* Copy Files */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 12;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				8B17C98522FDCEBC000BD8DA /* libssl.1.1.dylib in Copy Files */,
+				8B17C98422FDCEB6000BD8DA /* libcrypto.1.1.dylib in Copy Files */,
+				8B4B1F22215A66C200301344 /* libevent_core-2.1.6.dylib in Copy Files */,
+				8B4B1F23215A66C200301344 /* libevent_extra-2.1.6.dylib in Copy Files */,
+				8B4B1F24215A66C200301344 /* libgpac.0.7.1.dylib in Copy Files */,
+				8B4B1F21215A66BB00301344 /* libSnyMediaServer.dynamic.dylib in Copy Files */,
+			);
+			name = "Copy Files";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		87DC0D2D213C1AD90052FF90 /* Ap4Mpeg2Ts.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Ap4Mpeg2Ts.cpp; path = ../../../core/mpegts/Ap4Mpeg2Ts.cpp; sourceTree = "<group>"; };
+		87DC0D2E213C1AD90052FF90 /* Ap4Sample.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Ap4Sample.h; path = ../../../core/mpegts/Ap4Sample.h; sourceTree = "<group>"; };
+		87DC0D2F213C1AD90052FF90 /* Ap4Results.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Ap4Results.h; path = ../../../core/mpegts/Ap4Results.h; sourceTree = "<group>"; };
+		87DC0D30213C1AD90052FF90 /* Ap4String.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Ap4String.h; path = ../../../core/mpegts/Ap4String.h; sourceTree = "<group>"; };
+		87DC0D31213C1AD90052FF90 /* Ap4Types.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Ap4Types.h; path = ../../../core/mpegts/Ap4Types.h; sourceTree = "<group>"; };
+		87DC0D32213C1AD90052FF90 /* Ap4AdtsParser.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Ap4AdtsParser.cpp; path = ../../../core/mpegts/Ap4AdtsParser.cpp; sourceTree = "<group>"; };
+		87DC0D33213C1AD90052FF90 /* Ap4BitStream.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Ap4BitStream.h; path = ../../../core/mpegts/Ap4BitStream.h; sourceTree = "<group>"; };
+		87DC0D34213C1AD90052FF90 /* Ap4BitStream.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Ap4BitStream.cpp; path = ../../../core/mpegts/Ap4BitStream.cpp; sourceTree = "<group>"; };
+		87DC0D35213C1AD90052FF90 /* Ap4HevcParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Ap4HevcParser.h; path = ../../../core/mpegts/Ap4HevcParser.h; sourceTree = "<group>"; };
+		87DC0D36213C1AD90052FF90 /* Ap4String.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Ap4String.cpp; path = ../../../core/mpegts/Ap4String.cpp; sourceTree = "<group>"; };
+		87DC0D37213C1AD90052FF90 /* Ap4Mpeg2Ts.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Ap4Mpeg2Ts.h; path = ../../../core/mpegts/Ap4Mpeg2Ts.h; sourceTree = "<group>"; };
+		87DC0D38213C1AD90052FF90 /* Ap4List.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Ap4List.h; path = ../../../core/mpegts/Ap4List.h; sourceTree = "<group>"; };
+		87DC0D39213C1AD90052FF90 /* Ap4SampleDescription.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Ap4SampleDescription.h; path = ../../../core/mpegts/Ap4SampleDescription.h; sourceTree = "<group>"; };
+		87DC0D3A213C1AD90052FF90 /* Ap4Array.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Ap4Array.h; path = ../../../core/mpegts/Ap4Array.h; sourceTree = "<group>"; };
+		87DC0D3B213C1AD90052FF90 /* Ap4DataBuffer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Ap4DataBuffer.cpp; path = ../../../core/mpegts/Ap4DataBuffer.cpp; sourceTree = "<group>"; };
+		87DC0D3C213C1ADA0052FF90 /* Ap4AvcParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Ap4AvcParser.h; path = ../../../core/mpegts/Ap4AvcParser.h; sourceTree = "<group>"; };
+		87DC0D3D213C1ADA0052FF90 /* Ap4Results.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Ap4Results.cpp; path = ../../../core/mpegts/Ap4Results.cpp; sourceTree = "<group>"; };
+		87DC0D3E213C1ADA0052FF90 /* Ap4Sample.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Ap4Sample.cpp; path = ../../../core/mpegts/Ap4Sample.cpp; sourceTree = "<group>"; };
+		87DC0D3F213C1ADA0052FF90 /* Ap4Utils.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Ap4Utils.cpp; path = ../../../core/mpegts/Ap4Utils.cpp; sourceTree = "<group>"; };
+		87DC0D40213C1ADA0052FF90 /* Ap4NalParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Ap4NalParser.h; path = ../../../core/mpegts/Ap4NalParser.h; sourceTree = "<group>"; };
+		87DC0D41213C1ADA0052FF90 /* Ap4AvcParser.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Ap4AvcParser.cpp; path = ../../../core/mpegts/Ap4AvcParser.cpp; sourceTree = "<group>"; };
+		87DC0D42213C1ADA0052FF90 /* Ap4Debug.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Ap4Debug.h; path = ../../../core/mpegts/Ap4Debug.h; sourceTree = "<group>"; };
+		87DC0D43213C1ADA0052FF90 /* Ap4NalParser.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Ap4NalParser.cpp; path = ../../../core/mpegts/Ap4NalParser.cpp; sourceTree = "<group>"; };
+		87DC0D44213C1ADA0052FF90 /* Ap4Utils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Ap4Utils.h; path = ../../../core/mpegts/Ap4Utils.h; sourceTree = "<group>"; };
+		87DC0D45213C1ADA0052FF90 /* Ap4HevcParser.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Ap4HevcParser.cpp; path = ../../../core/mpegts/Ap4HevcParser.cpp; sourceTree = "<group>"; };
+		87DC0D46213C1ADA0052FF90 /* Ap4ByteStream.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Ap4ByteStream.cpp; path = ../../../core/mpegts/Ap4ByteStream.cpp; sourceTree = "<group>"; };
+		87DC0D47213C1ADA0052FF90 /* Ap4DataBuffer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Ap4DataBuffer.h; path = ../../../core/mpegts/Ap4DataBuffer.h; sourceTree = "<group>"; };
+		87DC0D48213C1ADA0052FF90 /* Ap4ByteStream.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Ap4ByteStream.h; path = ../../../core/mpegts/Ap4ByteStream.h; sourceTree = "<group>"; };
+		87DC0D49213C1ADB0052FF90 /* Ap4Config.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Ap4Config.h; path = ../../../core/mpegts/Ap4Config.h; sourceTree = "<group>"; };
+		87DC0D4A213C1ADB0052FF90 /* Ap4Constants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Ap4Constants.h; path = ../../../core/mpegts/Ap4Constants.h; sourceTree = "<group>"; };
+		87DC0D4B213C1ADB0052FF90 /* Ap4Mp4AudioInfo.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Ap4Mp4AudioInfo.cpp; path = ../../../core/mpegts/Ap4Mp4AudioInfo.cpp; sourceTree = "<group>"; };
+		87DC0D4C213C1ADB0052FF90 /* Ap4Mp4AudioInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Ap4Mp4AudioInfo.h; path = ../../../core/mpegts/Ap4Mp4AudioInfo.h; sourceTree = "<group>"; };
+		87DC0D4D213C1ADB0052FF90 /* Ap4Debug.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Ap4Debug.cpp; path = ../../../core/mpegts/Ap4Debug.cpp; sourceTree = "<group>"; };
+		87DC0D4E213C1ADB0052FF90 /* Ap4AdtsParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Ap4AdtsParser.h; path = ../../../core/mpegts/Ap4AdtsParser.h; sourceTree = "<group>"; };
+		87DC0D4F213C1ADB0052FF90 /* Ap4Interfaces.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Ap4Interfaces.h; path = ../../../core/mpegts/Ap4Interfaces.h; sourceTree = "<group>"; };
+		87DC0D73213C1AE80052FF90 /* http_request.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = http_request.h; path = ../../../core/http/http_request.h; sourceTree = "<group>"; };
+		87DC0D74213C1AE80052FF90 /* http_server.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = http_server.h; path = ../../../core/http/http_server.h; sourceTree = "<group>"; };
+		87DC0D75213C1AE80052FF90 /* string_constant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = string_constant.h; path = ../../../core/http/string_constant.h; sourceTree = "<group>"; };
+		87DC0D76213C1AE80052FF90 /* type_registry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = type_registry.h; path = ../../../core/http/type_registry.h; sourceTree = "<group>"; };
+		87DC0D77213C1AE80052FF90 /* http_content_type.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = http_content_type.h; path = ../../../core/http/http_content_type.h; sourceTree = "<group>"; };
+		87DC0D78213C1AE80052FF90 /* static_counter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = static_counter.h; path = ../../../core/http/static_counter.h; sourceTree = "<group>"; };
+		87DC0D79213C1AE80052FF90 /* tools.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = tools.h; path = ../../../core/http/tools.h; sourceTree = "<group>"; };
+		87DC0D7A213C1AE90052FF90 /* http_server.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = http_server.cpp; path = ../../../core/http/http_server.cpp; sourceTree = "<group>"; };
+		87DC0D7B213C1AE90052FF90 /* http_headers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = http_headers.h; path = ../../../core/http/http_headers.h; sourceTree = "<group>"; };
+		87DC0D7C213C1AE90052FF90 /* non_copyable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = non_copyable.h; path = ../../../core/http/non_copyable.h; sourceTree = "<group>"; };
+		87DC0D7D213C1AE90052FF90 /* exceptions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = exceptions.h; path = ../../../core/http/exceptions.h; sourceTree = "<group>"; };
+		87DC0D89213C1AF90052FF90 /* SnyIDemuxer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SnyIDemuxer.cpp; path = ../../../core/SnyIDemuxer.cpp; sourceTree = "<group>"; };
+		87DC0D8A213C1AF90052FF90 /* SnyPlatform.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyPlatform.h; path = ../../../core/SnyPlatform.h; sourceTree = "<group>"; };
+		87DC0D8B213C1AF90052FF90 /* SnySample.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnySample.h; path = ../../../core/SnySample.h; sourceTree = "<group>"; };
+		87DC0D8C213C1AF90052FF90 /* SnyUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyUtils.h; path = ../../../core/SnyUtils.h; sourceTree = "<group>"; };
+		87DC0D8D213C1AF90052FF90 /* SnyRefobj.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SnyRefobj.cpp; path = ../../../core/SnyRefobj.cpp; sourceTree = "<group>"; };
+		87DC0D8E213C1AF90052FF90 /* SnyGPACMediaInfo.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SnyGPACMediaInfo.cpp; path = ../../../core/SnyGPACMediaInfo.cpp; sourceTree = "<group>"; };
+		87DC0D8F213C1AF90052FF90 /* SnyRefobj.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyRefobj.h; path = ../../../core/SnyRefobj.h; sourceTree = "<group>"; };
+		87DC0D90213C1AF90052FF90 /* SnyIOStream.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyIOStream.h; path = ../../../core/SnyIOStream.h; sourceTree = "<group>"; };
+		87DC0D91213C1AF90052FF90 /* SnyDictionary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyDictionary.h; path = ../../../core/SnyDictionary.h; sourceTree = "<group>"; };
+		87DC0D92213C1AF90052FF90 /* SnyGPACMP4.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyGPACMP4.h; path = ../../../core/SnyGPACMP4.h; sourceTree = "<group>"; };
+		87DC0D93213C1AF90052FF90 /* SnyDictionary.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SnyDictionary.cpp; path = ../../../core/SnyDictionary.cpp; sourceTree = "<group>"; };
+		87DC0D94213C1AF90052FF90 /* SnyDataBuffer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyDataBuffer.h; path = ../../../core/SnyDataBuffer.h; sourceTree = "<group>"; };
+		87DC0D95213C1AF90052FF90 /* SnyMachineInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyMachineInfo.h; path = ../../../core/SnyMachineInfo.h; sourceTree = "<group>"; };
+		87DC0D96213C1AF90052FF90 /* SnyThreads.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SnyThreads.cpp; path = ../../../core/SnyThreads.cpp; sourceTree = "<group>"; };
+		87DC0D97213C1AF90052FF90 /* SnyThreads.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyThreads.h; path = ../../../core/SnyThreads.h; sourceTree = "<group>"; };
+		87DC0D98213C1AF90052FF90 /* SnyMediatype.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyMediatype.h; path = ../../../core/SnyMediatype.h; sourceTree = "<group>"; };
+		87DC0D99213C1AF90052FF90 /* SnyIOStream.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SnyIOStream.cpp; path = ../../../core/SnyIOStream.cpp; sourceTree = "<group>"; };
+		87DC0D9A213C1AFA0052FF90 /* SnyType.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyType.h; path = ../../../core/SnyType.h; sourceTree = "<group>"; };
+		87DC0D9B213C1AFA0052FF90 /* SnyArgument.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SnyArgument.cpp; path = ../../../core/SnyArgument.cpp; sourceTree = "<group>"; };
+		87DC0D9C213C1AFA0052FF90 /* SnyDataBuffer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SnyDataBuffer.cpp; path = ../../../core/SnyDataBuffer.cpp; sourceTree = "<group>"; };
+		87DC0D9D213C1AFA0052FF90 /* SnyIEventCallback.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyIEventCallback.h; path = ../../../core/SnyIEventCallback.h; sourceTree = "<group>"; };
+		87DC0D9E213C1AFA0052FF90 /* SnyIDemuxer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyIDemuxer.h; path = ../../../core/SnyIDemuxer.h; sourceTree = "<group>"; };
+		87DC0D9F213C1AFA0052FF90 /* SnyResults.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyResults.h; path = ../../../core/SnyResults.h; sourceTree = "<group>"; };
+		87DC0DA0213C1AFA0052FF90 /* SnyMachineInfo.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SnyMachineInfo.cpp; path = ../../../core/SnyMachineInfo.cpp; sourceTree = "<group>"; };
+		87DC0DA1213C1AFA0052FF90 /* SnyVariantValue.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SnyVariantValue.cpp; path = ../../../core/SnyVariantValue.cpp; sourceTree = "<group>"; };
+		87DC0DA2213C1AFA0052FF90 /* SnyGPACMP4Track.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SnyGPACMP4Track.cpp; path = ../../../core/SnyGPACMP4Track.cpp; sourceTree = "<group>"; };
+		87DC0DA3213C1AFA0052FF90 /* SnyConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyConstants.h; path = ../../../core/SnyConstants.h; sourceTree = "<group>"; };
+		87DC0DA4213C1AFA0052FF90 /* SnyGPACMP4.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SnyGPACMP4.cpp; path = ../../../core/SnyGPACMP4.cpp; sourceTree = "<group>"; };
+		87DC0DA5213C1AFA0052FF90 /* SnyEventManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyEventManager.h; path = ../../../core/SnyEventManager.h; sourceTree = "<group>"; };
+		87DC0DA6213C1AFB0052FF90 /* SnyGPACMP4Track.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyGPACMP4Track.h; path = ../../../core/SnyGPACMP4Track.h; sourceTree = "<group>"; };
+		87DC0DA7213C1AFB0052FF90 /* SnyResults.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SnyResults.cpp; path = ../../../core/SnyResults.cpp; sourceTree = "<group>"; };
+		87DC0DA8213C1AFB0052FF90 /* SnyUtils.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SnyUtils.cpp; path = ../../../core/SnyUtils.cpp; sourceTree = "<group>"; };
+		87DC0DA9213C1AFB0052FF90 /* SnyHLSConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyHLSConstants.h; path = ../../../core/SnyHLSConstants.h; sourceTree = "<group>"; };
+		87DC0DAA213C1AFB0052FF90 /* SnyEventManager.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SnyEventManager.cpp; path = ../../../core/SnyEventManager.cpp; sourceTree = "<group>"; };
+		87DC0DAB213C1AFB0052FF90 /* SnyConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyConfig.h; path = ../../../core/SnyConfig.h; sourceTree = "<group>"; };
+		87DC0DAC213C1AFB0052FF90 /* SnyVariantValue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyVariantValue.h; path = ../../../core/SnyVariantValue.h; sourceTree = "<group>"; };
+		87DC0DAD213C1AFB0052FF90 /* SnyArgument.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyArgument.h; path = ../../../core/SnyArgument.h; sourceTree = "<group>"; };
+		87DC0DAE213C1AFB0052FF90 /* typedefine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = typedefine.h; path = ../../../core/typedefine.h; sourceTree = "<group>"; };
+		87DC0DAF213C1AFB0052FF90 /* SnyMediatype.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SnyMediatype.cpp; path = ../../../core/SnyMediatype.cpp; sourceTree = "<group>"; };
+		87DC0DB0213C1AFB0052FF90 /* SnySample.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SnySample.cpp; path = ../../../core/SnySample.cpp; sourceTree = "<group>"; };
+		87DC0DB1213C1AFB0052FF90 /* SnyGPACMediaInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyGPACMediaInfo.h; path = ../../../core/SnyGPACMediaInfo.h; sourceTree = "<group>"; };
+		87DC0DDB213C1B080052FF90 /* easylogging++.cc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "easylogging++.cc"; path = "../../../log/easylogging++.cc"; sourceTree = "<group>"; };
+		87DC0DDC213C1B080052FF90 /* easylogging++.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "easylogging++.h"; path = "../../../log/easylogging++.h"; sourceTree = "<group>"; };
+		87DC0DDF213C1B190052FF90 /* SnyPlaylist.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyPlaylist.h; path = ../../../mediaserver/SnyPlaylist.h; sourceTree = "<group>"; };
+		87DC0DE0213C1B190052FF90 /* SnyVersion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyVersion.h; path = ../../../mediaserver/SnyVersion.h; sourceTree = "<group>"; };
+		87DC0DE1213C1B190052FF90 /* SnyWebService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyWebService.h; path = ../../../mediaserver/SnyWebService.h; sourceTree = "<group>"; };
+		87DC0DE2213C1B190052FF90 /* SnyMediaService.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SnyMediaService.cpp; path = ../../../mediaserver/SnyMediaService.cpp; sourceTree = "<group>"; };
+		87DC0DE3213C1B190052FF90 /* SnyWebService.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SnyWebService.cpp; path = ../../../mediaserver/SnyWebService.cpp; sourceTree = "<group>"; };
+		87DC0DE4213C1B190052FF90 /* SnyRevision.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyRevision.h; path = ../../../mediaserver/SnyRevision.h; sourceTree = "<group>"; };
+		87DC0DE5213C1B190052FF90 /* SnyPlaylist.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SnyPlaylist.cpp; path = ../../../mediaserver/SnyPlaylist.cpp; sourceTree = "<group>"; };
+		87DC0DE6213C1B190052FF90 /* SnyVODManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyVODManager.h; path = ../../../mediaserver/SnyVODManager.h; sourceTree = "<group>"; };
+		87DC0DE7213C1B190052FF90 /* SnyVODMediaManifest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyVODMediaManifest.h; path = ../../../mediaserver/SnyVODMediaManifest.h; sourceTree = "<group>"; };
+		87DC0DE8213C1B190052FF90 /* SnySystemService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnySystemService.h; path = ../../../mediaserver/SnySystemService.h; sourceTree = "<group>"; };
+		87DC0DE9213C1B190052FF90 /* SnyLiveManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyLiveManager.h; path = ../../../mediaserver/SnyLiveManager.h; sourceTree = "<group>"; };
+		87DC0DEA213C1B190052FF90 /* SnyVODChannel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyVODChannel.h; path = ../../../mediaserver/SnyVODChannel.h; sourceTree = "<group>"; };
+		87DC0DEB213C1B190052FF90 /* SnyVODMediaManifest.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SnyVODMediaManifest.cpp; path = ../../../mediaserver/SnyVODMediaManifest.cpp; sourceTree = "<group>"; };
+		87DC0DEC213C1B190052FF90 /* SnyMediaServer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SnyMediaServer.cpp; path = ../../../mediaserver/SnyMediaServer.cpp; sourceTree = "<group>"; };
+		87DC0DED213C1B190052FF90 /* SnyBroadcastService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyBroadcastService.h; path = ../../../mediaserver/SnyBroadcastService.h; sourceTree = "<group>"; };
+		87DC0DEE213C1B190052FF90 /* SnyLiveManager.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SnyLiveManager.cpp; path = ../../../mediaserver/SnyLiveManager.cpp; sourceTree = "<group>"; };
+		87DC0DEF213C1B190052FF90 /* SnyMediaServer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyMediaServer.h; path = ../../../mediaserver/SnyMediaServer.h; sourceTree = "<group>"; };
+		87DC0DF0213C1B1A0052FF90 /* SnySystemService.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SnySystemService.cpp; path = ../../../mediaserver/SnySystemService.cpp; sourceTree = "<group>"; };
+		87DC0DF1213C1B1A0052FF90 /* SnyVODManager.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SnyVODManager.cpp; path = ../../../mediaserver/SnyVODManager.cpp; sourceTree = "<group>"; };
+		87DC0DF2213C1B1A0052FF90 /* SnyBroadcastService.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SnyBroadcastService.cpp; path = ../../../mediaserver/SnyBroadcastService.cpp; sourceTree = "<group>"; };
+		87DC0DF3213C1B1A0052FF90 /* SnyMediaService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyMediaService.h; path = ../../../mediaserver/SnyMediaService.h; sourceTree = "<group>"; };
+		87DC0DF4213C1B1A0052FF90 /* SnyVODSingleBitRatePlaylist.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SnyVODSingleBitRatePlaylist.h; path = ../../../mediaserver/SnyVODSingleBitRatePlaylist.h; sourceTree = "<group>"; };
+		87DC0DF5213C1B1A0052FF90 /* SnyVODChannel.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SnyVODChannel.cpp; path = ../../../mediaserver/SnyVODChannel.cpp; sourceTree = "<group>"; };
+		87DC0E0D213C1B290052FF90 /* md5.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = md5.cpp; path = ../../../util/md5.cpp; sourceTree = "<group>"; };
+		87DC0E0E213C1B290052FF90 /* md5.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = md5.h; path = ../../../util/md5.h; sourceTree = "<group>"; };
+		87DE0EAB213BEFCF00E8EF68 /* libSnyMediaServer.dynamic.dylib */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = libSnyMediaServer.dynamic.dylib; sourceTree = BUILT_PRODUCTS_DIR; };
+		87DE0EAE213BEFCF00E8EF68 /* SnyMediaServer_dynamic.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SnyMediaServer_dynamic.hpp; sourceTree = "<group>"; };
+		87DE0EB0213BEFCF00E8EF68 /* SnyMediaServer_dynamicPriv.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SnyMediaServer_dynamicPriv.hpp; sourceTree = "<group>"; };
+		87DE0EB2213BEFCF00E8EF68 /* SnyMediaServer_dynamic.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = SnyMediaServer_dynamic.cpp; sourceTree = "<group>"; };
+		8B17C98022FDCE82000BD8DA /* libcrypto.1.1.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libcrypto.1.1.dylib; path = "../../third-party-compiled/OpenSSL/mac/x86_64/release/lib/libcrypto.1.1.dylib"; sourceTree = "<group>"; };
+		8B17C98122FDCE82000BD8DA /* libssl.1.1.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libssl.1.1.dylib; path = "../../third-party-compiled/OpenSSL/mac/x86_64/release/lib/libssl.1.1.dylib"; sourceTree = "<group>"; };
+		8B45D99B22F885A8000087A4 /* SnyAuthenticator.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = SnyAuthenticator.cpp; sourceTree = "<group>"; };
+		8B45D99C22F885A9000087A4 /* SnyAuthenticator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SnyAuthenticator.h; sourceTree = "<group>"; };
+		8B4B1F06215A64FB00301344 /* SnyMediaServerApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SnyMediaServerApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8B4B1F08215A64FB00301344 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		8B4B1F09215A64FB00301344 /* AppDelegate.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = AppDelegate.mm; sourceTree = "<group>"; };
+		8B4B1F0B215A64FC00301344 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		8B4B1F0E215A64FC00301344 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		8B4B1F10215A64FC00301344 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8B4B1F11215A64FC00301344 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8B4B1F13215A64FC00301344 /* SnyMediaServerApp.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SnyMediaServerApp.entitlements; sourceTree = "<group>"; };
+		8B4B1F1A215A668700301344 /* libgpac.0.7.1.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libgpac.0.7.1.dylib; path = "../../third-party-compiled/gpac/mac/x86_64/release/lib/libgpac.0.7.1.dylib"; sourceTree = "<group>"; };
+		8B4B1F1C215A669A00301344 /* libevent_core-2.1.6.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libevent_core-2.1.6.dylib"; path = "../../third-party-compiled/libevent/mac/x86_64/release/lib/libevent_core-2.1.6.dylib"; sourceTree = "<group>"; };
+		8B4B1F1D215A669A00301344 /* libevent_extra-2.1.6.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libevent_extra-2.1.6.dylib"; path = "../../third-party-compiled/libevent/mac/x86_64/release/lib/libevent_extra-2.1.6.dylib"; sourceTree = "<group>"; };
+		8B93C27822FEBC8A006D63A1 /* web */ = {isa = PBXFileReference; lastKnownFileType = folder; name = web; path = "../../../vue-element-admin/dist/web"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		87DE0EA8213BEFCF00E8EF68 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8B17C98922FDCF9A000BD8DA /* libssl.1.1.dylib in Frameworks */,
+				8B17C98822FDCF9A000BD8DA /* libcrypto.1.1.dylib in Frameworks */,
+				8B4B1F1B215A668700301344 /* libgpac.0.7.1.dylib in Frameworks */,
+				8B4B1F1E215A669A00301344 /* libevent_core-2.1.6.dylib in Frameworks */,
+				8B4B1F1F215A669A00301344 /* libevent_extra-2.1.6.dylib in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8B4B1F03215A64FB00301344 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8B4B1F19215A65C600301344 /* libSnyMediaServer.dynamic.dylib in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		87DC0D2B213C1AC10052FF90 /* mpegts */ = {
+			isa = PBXGroup;
+			children = (
+				87DC0D32213C1AD90052FF90 /* Ap4AdtsParser.cpp */,
+				87DC0D4E213C1ADB0052FF90 /* Ap4AdtsParser.h */,
+				87DC0D3A213C1AD90052FF90 /* Ap4Array.h */,
+				87DC0D41213C1ADA0052FF90 /* Ap4AvcParser.cpp */,
+				87DC0D3C213C1ADA0052FF90 /* Ap4AvcParser.h */,
+				87DC0D34213C1AD90052FF90 /* Ap4BitStream.cpp */,
+				87DC0D33213C1AD90052FF90 /* Ap4BitStream.h */,
+				87DC0D46213C1ADA0052FF90 /* Ap4ByteStream.cpp */,
+				87DC0D48213C1ADA0052FF90 /* Ap4ByteStream.h */,
+				87DC0D49213C1ADB0052FF90 /* Ap4Config.h */,
+				87DC0D4A213C1ADB0052FF90 /* Ap4Constants.h */,
+				87DC0D3B213C1AD90052FF90 /* Ap4DataBuffer.cpp */,
+				87DC0D47213C1ADA0052FF90 /* Ap4DataBuffer.h */,
+				87DC0D4D213C1ADB0052FF90 /* Ap4Debug.cpp */,
+				87DC0D42213C1ADA0052FF90 /* Ap4Debug.h */,
+				87DC0D45213C1ADA0052FF90 /* Ap4HevcParser.cpp */,
+				87DC0D35213C1AD90052FF90 /* Ap4HevcParser.h */,
+				87DC0D4F213C1ADB0052FF90 /* Ap4Interfaces.h */,
+				87DC0D38213C1AD90052FF90 /* Ap4List.h */,
+				87DC0D4B213C1ADB0052FF90 /* Ap4Mp4AudioInfo.cpp */,
+				87DC0D4C213C1ADB0052FF90 /* Ap4Mp4AudioInfo.h */,
+				87DC0D2D213C1AD90052FF90 /* Ap4Mpeg2Ts.cpp */,
+				87DC0D37213C1AD90052FF90 /* Ap4Mpeg2Ts.h */,
+				87DC0D43213C1ADA0052FF90 /* Ap4NalParser.cpp */,
+				87DC0D40213C1ADA0052FF90 /* Ap4NalParser.h */,
+				87DC0D3D213C1ADA0052FF90 /* Ap4Results.cpp */,
+				87DC0D2F213C1AD90052FF90 /* Ap4Results.h */,
+				87DC0D3E213C1ADA0052FF90 /* Ap4Sample.cpp */,
+				87DC0D2E213C1AD90052FF90 /* Ap4Sample.h */,
+				87DC0D39213C1AD90052FF90 /* Ap4SampleDescription.h */,
+				87DC0D36213C1AD90052FF90 /* Ap4String.cpp */,
+				87DC0D30213C1AD90052FF90 /* Ap4String.h */,
+				87DC0D31213C1AD90052FF90 /* Ap4Types.h */,
+				87DC0D3F213C1ADA0052FF90 /* Ap4Utils.cpp */,
+				87DC0D44213C1ADA0052FF90 /* Ap4Utils.h */,
+			);
+			name = mpegts;
+			sourceTree = "<group>";
+		};
+		87DC0D2C213C1ACA0052FF90 /* http */ = {
+			isa = PBXGroup;
+			children = (
+				87DC0D7D213C1AE90052FF90 /* exceptions.h */,
+				87DC0D77213C1AE80052FF90 /* http_content_type.h */,
+				87DC0D7B213C1AE90052FF90 /* http_headers.h */,
+				87DC0D73213C1AE80052FF90 /* http_request.h */,
+				87DC0D7A213C1AE90052FF90 /* http_server.cpp */,
+				87DC0D74213C1AE80052FF90 /* http_server.h */,
+				87DC0D7C213C1AE90052FF90 /* non_copyable.h */,
+				87DC0D78213C1AE80052FF90 /* static_counter.h */,
+				87DC0D75213C1AE80052FF90 /* string_constant.h */,
+				87DC0D79213C1AE80052FF90 /* tools.h */,
+				87DC0D76213C1AE80052FF90 /* type_registry.h */,
+			);
+			name = http;
+			sourceTree = "<group>";
+		};
+		87DC0E11213C1BE50052FF90 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8B17C98022FDCE82000BD8DA /* libcrypto.1.1.dylib */,
+				8B17C98122FDCE82000BD8DA /* libssl.1.1.dylib */,
+				8B4B1F1C215A669A00301344 /* libevent_core-2.1.6.dylib */,
+				8B4B1F1D215A669A00301344 /* libevent_extra-2.1.6.dylib */,
+				8B4B1F1A215A668700301344 /* libgpac.0.7.1.dylib */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		87DE0EA0213BEE7300E8EF68 = {
+			isa = PBXGroup;
+			children = (
+				8B93C27822FEBC8A006D63A1 /* web */,
+				87DE0EAD213BEFCF00E8EF68 /* SnyMediaServer.dynamic */,
+				8B4B1F07215A64FB00301344 /* SnyMediaServerApp */,
+				87DE0EAC213BEFCF00E8EF68 /* Products */,
+				87DC0E11213C1BE50052FF90 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		87DE0EAC213BEFCF00E8EF68 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				87DE0EAB213BEFCF00E8EF68 /* libSnyMediaServer.dynamic.dylib */,
+				8B4B1F06215A64FB00301344 /* SnyMediaServerApp.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		87DE0EAD213BEFCF00E8EF68 /* SnyMediaServer.dynamic */ = {
+			isa = PBXGroup;
+			children = (
+				87DE0ED2213BF19C00E8EF68 /* mediaserver */,
+				87DE0ED1213BF19700E8EF68 /* core */,
+				87DE0ED0213BF19000E8EF68 /* utils */,
+				87DE0ECF213BF17D00E8EF68 /* log */,
+				87DE0EAE213BEFCF00E8EF68 /* SnyMediaServer_dynamic.hpp */,
+				87DE0EB0213BEFCF00E8EF68 /* SnyMediaServer_dynamicPriv.hpp */,
+				87DE0EB2213BEFCF00E8EF68 /* SnyMediaServer_dynamic.cpp */,
+			);
+			path = SnyMediaServer.dynamic;
+			sourceTree = "<group>";
+		};
+		87DE0ECF213BF17D00E8EF68 /* log */ = {
+			isa = PBXGroup;
+			children = (
+				87DC0DDB213C1B080052FF90 /* easylogging++.cc */,
+				87DC0DDC213C1B080052FF90 /* easylogging++.h */,
+			);
+			name = log;
+			sourceTree = "<group>";
+		};
+		87DE0ED0213BF19000E8EF68 /* utils */ = {
+			isa = PBXGroup;
+			children = (
+				87DC0E0D213C1B290052FF90 /* md5.cpp */,
+				87DC0E0E213C1B290052FF90 /* md5.h */,
+			);
+			name = utils;
+			sourceTree = "<group>";
+		};
+		87DE0ED1213BF19700E8EF68 /* core */ = {
+			isa = PBXGroup;
+			children = (
+				87DC0D9B213C1AFA0052FF90 /* SnyArgument.cpp */,
+				87DC0DAD213C1AFB0052FF90 /* SnyArgument.h */,
+				87DC0D9C213C1AFA0052FF90 /* SnyDataBuffer.cpp */,
+				87DC0D94213C1AF90052FF90 /* SnyDataBuffer.h */,
+				87DC0D93213C1AF90052FF90 /* SnyDictionary.cpp */,
+				87DC0D91213C1AF90052FF90 /* SnyDictionary.h */,
+				87DC0D99213C1AF90052FF90 /* SnyIOStream.cpp */,
+				87DC0D90213C1AF90052FF90 /* SnyIOStream.h */,
+				87DC0DAF213C1AFB0052FF90 /* SnyMediatype.cpp */,
+				87DC0D98213C1AF90052FF90 /* SnyMediatype.h */,
+				87DC0D8D213C1AF90052FF90 /* SnyRefobj.cpp */,
+				87DC0D8F213C1AF90052FF90 /* SnyRefobj.h */,
+				87DC0DB0213C1AFB0052FF90 /* SnySample.cpp */,
+				87DC0D8B213C1AF90052FF90 /* SnySample.h */,
+				87DC0DAB213C1AFB0052FF90 /* SnyConfig.h */,
+				87DC0DA3213C1AFA0052FF90 /* SnyConstants.h */,
+				87DC0DAA213C1AFB0052FF90 /* SnyEventManager.cpp */,
+				87DC0DA5213C1AFA0052FF90 /* SnyEventManager.h */,
+				87DC0D8E213C1AF90052FF90 /* SnyGPACMediaInfo.cpp */,
+				87DC0DB1213C1AFB0052FF90 /* SnyGPACMediaInfo.h */,
+				87DC0DA4213C1AFA0052FF90 /* SnyGPACMP4.cpp */,
+				87DC0D92213C1AF90052FF90 /* SnyGPACMP4.h */,
+				87DC0DA2213C1AFA0052FF90 /* SnyGPACMP4Track.cpp */,
+				87DC0DA6213C1AFB0052FF90 /* SnyGPACMP4Track.h */,
+				87DC0DA9213C1AFB0052FF90 /* SnyHLSConstants.h */,
+				87DC0D89213C1AF90052FF90 /* SnyIDemuxer.cpp */,
+				87DC0D9E213C1AFA0052FF90 /* SnyIDemuxer.h */,
+				87DC0D9D213C1AFA0052FF90 /* SnyIEventCallback.h */,
+				87DC0DA0213C1AFA0052FF90 /* SnyMachineInfo.cpp */,
+				87DC0D95213C1AF90052FF90 /* SnyMachineInfo.h */,
+				87DC0D8A213C1AF90052FF90 /* SnyPlatform.h */,
+				87DC0DA7213C1AFB0052FF90 /* SnyResults.cpp */,
+				87DC0D9F213C1AFA0052FF90 /* SnyResults.h */,
+				87DC0D96213C1AF90052FF90 /* SnyThreads.cpp */,
+				87DC0D97213C1AF90052FF90 /* SnyThreads.h */,
+				87DC0D9A213C1AFA0052FF90 /* SnyType.h */,
+				87DC0DA8213C1AFB0052FF90 /* SnyUtils.cpp */,
+				87DC0D8C213C1AF90052FF90 /* SnyUtils.h */,
+				87DC0DAE213C1AFB0052FF90 /* typedefine.h */,
+				87DC0DA1213C1AFA0052FF90 /* SnyVariantValue.cpp */,
+				87DC0DAC213C1AFB0052FF90 /* SnyVariantValue.h */,
+				87DC0D2C213C1ACA0052FF90 /* http */,
+				87DC0D2B213C1AC10052FF90 /* mpegts */,
+			);
+			name = core;
+			sourceTree = "<group>";
+		};
+		87DE0ED2213BF19C00E8EF68 /* mediaserver */ = {
+			isa = PBXGroup;
+			children = (
+				87DC0DF2213C1B1A0052FF90 /* SnyBroadcastService.cpp */,
+				87DC0DED213C1B190052FF90 /* SnyBroadcastService.h */,
+				87DC0DEE213C1B190052FF90 /* SnyLiveManager.cpp */,
+				87DC0DE9213C1B190052FF90 /* SnyLiveManager.h */,
+				87DC0DEC213C1B190052FF90 /* SnyMediaServer.cpp */,
+				87DC0DEF213C1B190052FF90 /* SnyMediaServer.h */,
+				87DC0DE5213C1B190052FF90 /* SnyPlaylist.cpp */,
+				87DC0DDF213C1B190052FF90 /* SnyPlaylist.h */,
+				87DC0DE2213C1B190052FF90 /* SnyMediaService.cpp */,
+				87DC0DF3213C1B1A0052FF90 /* SnyMediaService.h */,
+				87DC0DE4213C1B190052FF90 /* SnyRevision.h */,
+				87DC0DF0213C1B1A0052FF90 /* SnySystemService.cpp */,
+				87DC0DE8213C1B190052FF90 /* SnySystemService.h */,
+				87DC0DE0213C1B190052FF90 /* SnyVersion.h */,
+				87DC0DF5213C1B1A0052FF90 /* SnyVODChannel.cpp */,
+				87DC0DEA213C1B190052FF90 /* SnyVODChannel.h */,
+				87DC0DF1213C1B1A0052FF90 /* SnyVODManager.cpp */,
+				87DC0DE6213C1B190052FF90 /* SnyVODManager.h */,
+				87DC0DEB213C1B190052FF90 /* SnyVODMediaManifest.cpp */,
+				87DC0DE7213C1B190052FF90 /* SnyVODMediaManifest.h */,
+				87DC0DF4213C1B1A0052FF90 /* SnyVODSingleBitRatePlaylist.h */,
+				87DC0DE3213C1B190052FF90 /* SnyWebService.cpp */,
+				87DC0DE1213C1B190052FF90 /* SnyWebService.h */,
+				8B45D99B22F885A8000087A4 /* SnyAuthenticator.cpp */,
+				8B45D99C22F885A9000087A4 /* SnyAuthenticator.h */,
+			);
+			name = mediaserver;
+			sourceTree = "<group>";
+		};
+		8B4B1F07215A64FB00301344 /* SnyMediaServerApp */ = {
+			isa = PBXGroup;
+			children = (
+				8B4B1F08215A64FB00301344 /* AppDelegate.h */,
+				8B4B1F09215A64FB00301344 /* AppDelegate.mm */,
+				8B4B1F0B215A64FC00301344 /* Assets.xcassets */,
+				8B4B1F0D215A64FC00301344 /* MainMenu.xib */,
+				8B4B1F10215A64FC00301344 /* Info.plist */,
+				8B4B1F11215A64FC00301344 /* main.m */,
+				8B4B1F13215A64FC00301344 /* SnyMediaServerApp.entitlements */,
+			);
+			path = SnyMediaServerApp;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		87DE0EA9213BEFCF00E8EF68 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8B45D99E22F885A9000087A4 /* SnyAuthenticator.h in Headers */,
+				87DC0DD4213C1AFC0052FF90 /* SnyConfig.h in Headers */,
+				87DC0E04213C1B1A0052FF90 /* SnyBroadcastService.h in Headers */,
+				87DC0DBA213C1AFC0052FF90 /* SnyDictionary.h in Headers */,
+				87DC0DB9213C1AFC0052FF90 /* SnyIOStream.h in Headers */,
+				87DC0DB3213C1AFC0052FF90 /* SnyPlatform.h in Headers */,
+				87DC0D5D213C1ADB0052FF90 /* Ap4Array.h in Headers */,
+				87DC0DF8213C1B1A0052FF90 /* SnyWebService.h in Headers */,
+				87DC0D5A213C1ADB0052FF90 /* Ap4Mpeg2Ts.h in Headers */,
+				87DC0DC6213C1AFC0052FF90 /* SnyIEventCallback.h in Headers */,
+				87DC0E10213C1B290052FF90 /* md5.h in Headers */,
+				87DC0D83213C1AE90052FF90 /* static_counter.h in Headers */,
+				87DC0E01213C1B1A0052FF90 /* SnyVODChannel.h in Headers */,
+				87DC0E06213C1B1A0052FF90 /* SnyMediaServer.h in Headers */,
+				87DC0DC7213C1AFC0052FF90 /* SnyIDemuxer.h in Headers */,
+				87DC0DFB213C1B1A0052FF90 /* SnyRevision.h in Headers */,
+				87DC0DC3213C1AFC0052FF90 /* SnyType.h in Headers */,
+				87DC0D6D213C1ADB0052FF90 /* Ap4Constants.h in Headers */,
+				87DC0DD6213C1AFC0052FF90 /* SnyArgument.h in Headers */,
+				87DE0EB1213BEFCF00E8EF68 /* SnyMediaServer_dynamicPriv.hpp in Headers */,
+				87DC0DBB213C1AFC0052FF90 /* SnyGPACMP4.h in Headers */,
+				87DC0D82213C1AE90052FF90 /* http_content_type.h in Headers */,
+				87DC0D63213C1ADB0052FF90 /* Ap4NalParser.h in Headers */,
+				87DC0DC8213C1AFC0052FF90 /* SnyResults.h in Headers */,
+				87DC0DF6213C1B1A0052FF90 /* SnyPlaylist.h in Headers */,
+				87DC0DC1213C1AFC0052FF90 /* SnyMediatype.h in Headers */,
+				87DC0D81213C1AE90052FF90 /* type_registry.h in Headers */,
+				87DC0D5F213C1ADB0052FF90 /* Ap4AvcParser.h in Headers */,
+				87DC0D5B213C1ADB0052FF90 /* Ap4List.h in Headers */,
+				87DC0DF7213C1B1A0052FF90 /* SnyVersion.h in Headers */,
+				87DC0D67213C1ADB0052FF90 /* Ap4Utils.h in Headers */,
+				87DC0D5C213C1ADB0052FF90 /* Ap4SampleDescription.h in Headers */,
+				87DC0E00213C1B1A0052FF90 /* SnyLiveManager.h in Headers */,
+				87DC0DD7213C1AFC0052FF90 /* typedefine.h in Headers */,
+				87DC0DFD213C1B1A0052FF90 /* SnyVODManager.h in Headers */,
+				87DC0DCF213C1AFC0052FF90 /* SnyGPACMP4Track.h in Headers */,
+				87DC0D52213C1ADB0052FF90 /* Ap4Results.h in Headers */,
+				87DC0D53213C1ADB0052FF90 /* Ap4String.h in Headers */,
+				87DC0D6B213C1ADB0052FF90 /* Ap4ByteStream.h in Headers */,
+				87DC0DCC213C1AFC0052FF90 /* SnyConstants.h in Headers */,
+				87DC0E0B213C1B1A0052FF90 /* SnyVODSingleBitRatePlaylist.h in Headers */,
+				87DC0D7E213C1AE90052FF90 /* http_request.h in Headers */,
+				87DC0D80213C1AE90052FF90 /* string_constant.h in Headers */,
+				87DC0DBE213C1AFC0052FF90 /* SnyMachineInfo.h in Headers */,
+				87DC0DFE213C1B1A0052FF90 /* SnyVODMediaManifest.h in Headers */,
+				87DC0E0A213C1B1A0052FF90 /* SnyMediaService.h in Headers */,
+				87DC0DD2213C1AFC0052FF90 /* SnyHLSConstants.h in Headers */,
+				87DC0D7F213C1AE90052FF90 /* http_server.h in Headers */,
+				87DC0DC0213C1AFC0052FF90 /* SnyThreads.h in Headers */,
+				87DC0DB8213C1AFC0052FF90 /* SnyRefobj.h in Headers */,
+				87DC0DD5213C1AFC0052FF90 /* SnyVariantValue.h in Headers */,
+				87DC0DB5213C1AFC0052FF90 /* SnyUtils.h in Headers */,
+				87DC0D84213C1AE90052FF90 /* tools.h in Headers */,
+				87DC0D88213C1AE90052FF90 /* exceptions.h in Headers */,
+				87DC0D6C213C1ADB0052FF90 /* Ap4Config.h in Headers */,
+				87DC0D51213C1ADB0052FF90 /* Ap4Sample.h in Headers */,
+				87DC0DCE213C1AFC0052FF90 /* SnyEventManager.h in Headers */,
+				87DC0DBD213C1AFC0052FF90 /* SnyDataBuffer.h in Headers */,
+				87DC0DFF213C1B1A0052FF90 /* SnySystemService.h in Headers */,
+				87DC0D6A213C1ADB0052FF90 /* Ap4DataBuffer.h in Headers */,
+				87DC0D54213C1ADB0052FF90 /* Ap4Types.h in Headers */,
+				87DC0DDE213C1B080052FF90 /* easylogging++.h in Headers */,
+				87DC0D65213C1ADB0052FF90 /* Ap4Debug.h in Headers */,
+				87DC0DDA213C1AFC0052FF90 /* SnyGPACMediaInfo.h in Headers */,
+				87DC0DB4213C1AFC0052FF90 /* SnySample.h in Headers */,
+				87DC0D72213C1ADB0052FF90 /* Ap4Interfaces.h in Headers */,
+				87DC0D58213C1ADB0052FF90 /* Ap4HevcParser.h in Headers */,
+				87DC0D56213C1ADB0052FF90 /* Ap4BitStream.h in Headers */,
+				87DC0D6F213C1ADB0052FF90 /* Ap4Mp4AudioInfo.h in Headers */,
+				87DE0EAF213BEFCF00E8EF68 /* SnyMediaServer_dynamic.hpp in Headers */,
+				87DC0D87213C1AE90052FF90 /* non_copyable.h in Headers */,
+				87DC0D86213C1AE90052FF90 /* http_headers.h in Headers */,
+				87DC0D71213C1ADB0052FF90 /* Ap4AdtsParser.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		87DE0EAA213BEFCF00E8EF68 /* SnyMediaServer.dynamic */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 87DE0EB4213BEFCF00E8EF68 /* Build configuration list for PBXNativeTarget "SnyMediaServer.dynamic" */;
+			buildPhases = (
+				87DE0EA7213BEFCF00E8EF68 /* Sources */,
+				87DE0EA8213BEFCF00E8EF68 /* Frameworks */,
+				87DE0EA9213BEFCF00E8EF68 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SnyMediaServer.dynamic;
+			productName = SnyMediaServer.dynamic;
+			productReference = 87DE0EAB213BEFCF00E8EF68 /* libSnyMediaServer.dynamic.dylib */;
+			productType = "com.apple.product-type.library.dynamic";
+		};
+		8B4B1F05215A64FB00301344 /* SnyMediaServerApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8B4B1F16215A64FC00301344 /* Build configuration list for PBXNativeTarget "SnyMediaServerApp" */;
+			buildPhases = (
+				8B4B1F02215A64FB00301344 /* Sources */,
+				8B4B1F03215A64FB00301344 /* Frameworks */,
+				8B4B1F04215A64FB00301344 /* Resources */,
+				8B4B1F20215A66AE00301344 /* Copy Files */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8B4B1F18215A65BE00301344 /* PBXTargetDependency */,
+			);
+			name = SnyMediaServerApp;
+			productName = SnyMediaServerApp;
+			productReference = 8B4B1F06215A64FB00301344 /* SnyMediaServerApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		87DE0EA1213BEE7300E8EF68 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0940;
+				TargetAttributes = {
+					87DE0EAA213BEFCF00E8EF68 = {
+						CreatedOnToolsVersion = 9.4.1;
+					};
+					8B4B1F05215A64FB00301344 = {
+						CreatedOnToolsVersion = 10.0;
+						SystemCapabilities = {
+							com.apple.Sandbox = {
+								enabled = 0;
+							};
+						};
+					};
+				};
+			};
+			buildConfigurationList = 87DE0EA4213BEE7300E8EF68 /* Build configuration list for PBXProject "SnyMediaServer_macOS" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 87DE0EA0213BEE7300E8EF68;
+			productRefGroup = 87DE0EAC213BEFCF00E8EF68 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				87DE0EAA213BEFCF00E8EF68 /* SnyMediaServer.dynamic */,
+				8B4B1F05215A64FB00301344 /* SnyMediaServerApp */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8B4B1F04215A64FB00301344 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8B93C27922FEBC8A006D63A1 /* web in Resources */,
+				8B4B1F0C215A64FC00301344 /* Assets.xcassets in Resources */,
+				8B4B1F0F215A64FC00301344 /* MainMenu.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		87DE0EA7213BEFCF00E8EF68 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				87DC0DD8213C1AFC0052FF90 /* SnyMediatype.cpp in Sources */,
+				87DC0DFC213C1B1A0052FF90 /* SnyPlaylist.cpp in Sources */,
+				87DC0D50213C1ADB0052FF90 /* Ap4Mpeg2Ts.cpp in Sources */,
+				87DC0D64213C1ADB0052FF90 /* Ap4AvcParser.cpp in Sources */,
+				87DC0E09213C1B1A0052FF90 /* SnyBroadcastService.cpp in Sources */,
+				87DC0D57213C1ADB0052FF90 /* Ap4BitStream.cpp in Sources */,
+				87DC0D70213C1ADB0052FF90 /* Ap4Debug.cpp in Sources */,
+				87DE0EB3213BEFCF00E8EF68 /* SnyMediaServer_dynamic.cpp in Sources */,
+				87DC0DCD213C1AFC0052FF90 /* SnyGPACMP4.cpp in Sources */,
+				87DC0DFA213C1B1A0052FF90 /* SnyWebService.cpp in Sources */,
+				87DC0DCA213C1AFC0052FF90 /* SnyVariantValue.cpp in Sources */,
+				87DC0D6E213C1ADB0052FF90 /* Ap4Mp4AudioInfo.cpp in Sources */,
+				87DC0D85213C1AE90052FF90 /* http_server.cpp in Sources */,
+				87DC0D59213C1ADB0052FF90 /* Ap4String.cpp in Sources */,
+				87DC0E0C213C1B1A0052FF90 /* SnyVODChannel.cpp in Sources */,
+				87DC0D60213C1ADB0052FF90 /* Ap4Results.cpp in Sources */,
+				87DC0DC9213C1AFC0052FF90 /* SnyMachineInfo.cpp in Sources */,
+				87DC0DD1213C1AFC0052FF90 /* SnyUtils.cpp in Sources */,
+				87DC0DB6213C1AFC0052FF90 /* SnyRefobj.cpp in Sources */,
+				87DC0D69213C1ADB0052FF90 /* Ap4ByteStream.cpp in Sources */,
+				87DC0E08213C1B1A0052FF90 /* SnyVODManager.cpp in Sources */,
+				87DC0E0F213C1B290052FF90 /* md5.cpp in Sources */,
+				8B45D99D22F885A9000087A4 /* SnyAuthenticator.cpp in Sources */,
+				87DC0D68213C1ADB0052FF90 /* Ap4HevcParser.cpp in Sources */,
+				87DC0DD3213C1AFC0052FF90 /* SnyEventManager.cpp in Sources */,
+				87DC0DC4213C1AFC0052FF90 /* SnyArgument.cpp in Sources */,
+				87DC0D66213C1ADB0052FF90 /* Ap4NalParser.cpp in Sources */,
+				87DC0DCB213C1AFC0052FF90 /* SnyGPACMP4Track.cpp in Sources */,
+				87DC0E03213C1B1A0052FF90 /* SnyMediaServer.cpp in Sources */,
+				87DC0DDD213C1B080052FF90 /* easylogging++.cc in Sources */,
+				87DC0DBC213C1AFC0052FF90 /* SnyDictionary.cpp in Sources */,
+				87DC0D61213C1ADB0052FF90 /* Ap4Sample.cpp in Sources */,
+				87DC0DD0213C1AFC0052FF90 /* SnyResults.cpp in Sources */,
+				87DC0DC2213C1AFC0052FF90 /* SnyIOStream.cpp in Sources */,
+				87DC0E02213C1B1A0052FF90 /* SnyVODMediaManifest.cpp in Sources */,
+				87DC0D62213C1ADB0052FF90 /* Ap4Utils.cpp in Sources */,
+				87DC0DD9213C1AFC0052FF90 /* SnySample.cpp in Sources */,
+				87DC0E05213C1B1A0052FF90 /* SnyLiveManager.cpp in Sources */,
+				87DC0E07213C1B1A0052FF90 /* SnySystemService.cpp in Sources */,
+				87DC0DF9213C1B1A0052FF90 /* SnyMediaService.cpp in Sources */,
+				87DC0DB2213C1AFC0052FF90 /* SnyIDemuxer.cpp in Sources */,
+				87DC0DC5213C1AFC0052FF90 /* SnyDataBuffer.cpp in Sources */,
+				87DC0DB7213C1AFC0052FF90 /* SnyGPACMediaInfo.cpp in Sources */,
+				87DC0DBF213C1AFC0052FF90 /* SnyThreads.cpp in Sources */,
+				87DC0D55213C1ADB0052FF90 /* Ap4AdtsParser.cpp in Sources */,
+				87DC0D5E213C1ADB0052FF90 /* Ap4DataBuffer.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8B4B1F02215A64FB00301344 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8B4B1F12215A64FC00301344 /* main.m in Sources */,
+				8B4B1F0A215A64FB00301344 /* AppDelegate.mm in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		8B4B1F18215A65BE00301344 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 87DE0EAA213BEFCF00E8EF68 /* SnyMediaServer.dynamic */;
+			targetProxy = 8B4B1F17215A65BE00301344 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		8B4B1F0D215A64FC00301344 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8B4B1F0E215A64FC00301344 /* Base */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		87DE0EA5213BEE7300E8EF68 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		87DE0EA6213BEE7300E8EF68 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+		87DE0EB5213BEFCF00E8EF68 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "c++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = Y6262W756B;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				EXECUTABLE_PREFIX = lib;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_CPP_EXCEPTIONS = YES;
+				GCC_ENABLE_CPP_RTTI = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+					"GPAC_CONFIG_DARWIN=1",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(SRCROOT)/../../log",
+					"$(SRCROOT)/../../util",
+					"$(SRCROOT)/../../core",
+					"$(SRCROOT)/../../third-party/jwt",
+					"$(SRCROOT)/../../third-party/rapidjson/include",
+					"$(SRCROOT)/../../third-party-compiled/libevent/mac/x86_64/debug/include",
+					"$(SRCROOT)/../../third-party-compiled/gpac/mac/x86_64/debug/include",
+					"$(SRCROOT)/../../third-party-compiled/OpenSSL/mac/x86_64/debug/include",
+				);
+				LD_DYLIB_INSTALL_NAME = "@executable_path/../Frameworks/$(EXECUTABLE_PATH)";
+				LIBRARY_SEARCH_PATHS = (
+					"$(SRCROOT)/../../third-party-compiled/libevent/mac/x86_64/debug/lib",
+					"$(SRCROOT)/../../third-party-compiled/gpac/mac/x86_64/debug/lib",
+					"$(SRCROOT)/../../third-party-compiled/OpenSSL/mac/x86_64/debug/lib",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		87DE0EB6213BEFCF00E8EF68 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "c++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = Y6262W756B;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				EXECUTABLE_PREFIX = lib;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_ENABLE_CPP_EXCEPTIONS = YES;
+				GCC_ENABLE_CPP_RTTI = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = "GPAC_CONFIG_DARWIN=1";
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(SRCROOT)/../../log",
+					"$(SRCROOT)/../../util",
+					"$(SRCROOT)/../../core",
+					"$(SRCROOT)/../../third-party/jwt",
+					"$(SRCROOT)/../../third-party/rapidjson/include",
+					"$(SRCROOT)/../../third-party-compiled/libevent/mac/x86_64/release/include",
+					"$(SRCROOT)/../../third-party-compiled/gpac/mac/x86_64/release/include",
+					"$(SRCROOT)/../../third-party-compiled/OpenSSL/mac/x86_64/release/include",
+				);
+				LD_DYLIB_INSTALL_NAME = "@executable_path/../Frameworks/$(EXECUTABLE_PATH)";
+				LIBRARY_SEARCH_PATHS = (
+					"$(SRCROOT)/../../third-party-compiled/libevent/mac/x86_64/release/lib",
+					"$(SRCROOT)/../../third-party-compiled/gpac/mac/x86_64/release/lib",
+					"$(SRCROOT)/../../third-party-compiled/OpenSSL/mac/x86_64/release/lib",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		8B4B1F14215A64FC00301344 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "c++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = Y6262W756B;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = SnyMediaServerApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.streamingnology.SnyMediaServerApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		8B4B1F15215A64FC00301344 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "c++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = Y6262W756B;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				INFOPLIST_FILE = SnyMediaServerApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.streamingnology.SnyMediaServerApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		87DE0EA4213BEE7300E8EF68 /* Build configuration list for PBXProject "SnyMediaServer_macOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				87DE0EA5213BEE7300E8EF68 /* Debug */,
+				87DE0EA6213BEE7300E8EF68 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		87DE0EB4213BEFCF00E8EF68 /* Build configuration list for PBXNativeTarget "SnyMediaServer.dynamic" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				87DE0EB5213BEFCF00E8EF68 /* Debug */,
+				87DE0EB6213BEFCF00E8EF68 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8B4B1F16215A64FC00301344 /* Build configuration list for PBXNativeTarget "SnyMediaServerApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8B4B1F14215A64FC00301344 /* Debug */,
+				8B4B1F15215A64FC00301344 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 87DE0EA1213BEE7300E8EF68 /* Project object */;
+}

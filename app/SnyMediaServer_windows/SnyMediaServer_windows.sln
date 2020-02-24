@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SnyMediaServer.dynamic", "SnyMediaServer_windows\SnyMediaServer_windows.vcxproj", "{034E2954-35D5-4307-B510-28E08154343B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SnyMediaServer", "SnyMediaServer\SnyMediaServer.vcxproj", "{9B1B7EAB-18C5-47A9-8265-9F8729068A0E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{034E2954-35D5-4307-B510-28E08154343B} = {034E2954-35D5-4307-B510-28E08154343B}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{034E2954-35D5-4307-B510-28E08154343B}.Debug|x64.ActiveCfg = Debug|x64
+		{034E2954-35D5-4307-B510-28E08154343B}.Debug|x64.Build.0 = Debug|x64
+		{034E2954-35D5-4307-B510-28E08154343B}.Debug|x86.ActiveCfg = Debug|Win32
+		{034E2954-35D5-4307-B510-28E08154343B}.Debug|x86.Build.0 = Debug|Win32
+		{034E2954-35D5-4307-B510-28E08154343B}.Release|x64.ActiveCfg = Release|x64
+		{034E2954-35D5-4307-B510-28E08154343B}.Release|x64.Build.0 = Release|x64
+		{034E2954-35D5-4307-B510-28E08154343B}.Release|x86.ActiveCfg = Release|Win32
+		{034E2954-35D5-4307-B510-28E08154343B}.Release|x86.Build.0 = Release|Win32
+		{9B1B7EAB-18C5-47A9-8265-9F8729068A0E}.Debug|x64.ActiveCfg = Debug|x64
+		{9B1B7EAB-18C5-47A9-8265-9F8729068A0E}.Debug|x64.Build.0 = Debug|x64
+		{9B1B7EAB-18C5-47A9-8265-9F8729068A0E}.Debug|x86.ActiveCfg = Debug|Win32
+		{9B1B7EAB-18C5-47A9-8265-9F8729068A0E}.Debug|x86.Build.0 = Debug|Win32
+		{9B1B7EAB-18C5-47A9-8265-9F8729068A0E}.Release|x64.ActiveCfg = Release|x64
+		{9B1B7EAB-18C5-47A9-8265-9F8729068A0E}.Release|x64.Build.0 = Release|x64
+		{9B1B7EAB-18C5-47A9-8265-9F8729068A0E}.Release|x86.ActiveCfg = Release|Win32
+		{9B1B7EAB-18C5-47A9-8265-9F8729068A0E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {736A22CF-3F18-4A93-8077-512D5C29EEA3}
+	EndGlobalSection
+EndGlobal
